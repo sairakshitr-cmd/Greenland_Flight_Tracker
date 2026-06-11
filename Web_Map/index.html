@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+
+<title>Greenland Flight Tracker</title>
+
+<link rel="stylesheet"
+href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+
+<style>
+
+html, body {
+
+height:100%;
+margin:0;
+padding:0;
+
+}
+
+#map {
+
+height:100%;
+
+}
+
+.flight-label {
+
+font-size:12px;
+font-weight:bold;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script>
+
+const map = L.map('map').setView(
+[72,-40],
+4
+);
+
+L.tileLayer(
+'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+{
+maxZoom:19
+}
+).addTo(map);
+
+let flightLayer;
+
+async function loadFlights(){
+
+try{
+
+const response =
+await fetch(
+'data/flights.geojson?'
++ Date.now()
+);
+
+const data =
+await response.json();
+
+if(flightLayer){
+
+map.removeLayer(
+flightLayer
+);
+
+}
+
+flightLayer =
+L.geoJSON(
+data,
+{
+
+pointToLayer:
+function(feature,latlng){
+
+return L.circleMarker(
+latlng,
+{
+radius:6,
+color:'red'
+}
+);
+
+},
+
+onEachFeature:
+function(feature,layer){
+
+const p =
+feature.properties;
+
+layer.bindPopup(
+
+"<b>"
++ p.callsign +
+"</b><br>" +
+
+"Altitude: "
++ p.altitude_ft +
+" ft<br>" +
+
+"Speed: "
++ p.speed_kmh +
+" km/h<br>" +
+
+"Heading: "
++ p.heading
+
+);
+
+layer.bindTooltip(
+
+p.callsign,
+
+{
+permanent:false
+}
+
+);
+
+}
+
+}
+
+).addTo(map);
+
+}
+catch(error){
+
+console.log(error);
+
+}
+
+}
+
+loadFlights();
+
+setInterval(
+loadFlights,
+20000
+);
+
+</script>
+
+</body>
+</html>
