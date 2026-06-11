@@ -1,0 +1,36 @@
+name: Update Flight Data
+
+"on":
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-flights:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Update flights GeoJSON
+        run: python scripts/update_flights.py
+
+      - name: Commit and push updated flight data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add Web_Map/data/flights.geojson
+          git commit -m "Update flight data" || echo "No changes to commit"
+          git push
