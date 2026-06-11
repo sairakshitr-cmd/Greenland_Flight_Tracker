@@ -1,159 +1,113 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="utf-8">
+  <title>Greenland–North Atlantic Flight Tracker</title>
 
-<meta charset="utf-8">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
 
-<title>Greenland Flight Tracker</title>
+  <style>
+    html, body, #map {
+      height: 100%;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
 
-<link rel="stylesheet"
-href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+    #panel {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background: white;
+      padding: 14px;
+      z-index: 1000;
+      border-radius: 8px;
+      box-shadow: 0 0 10px #555;
+      width: 300px;
+    }
 
-<style>
+    #panel h2 {
+      margin-top: 0;
+      font-size: 18px;
+    }
 
-html, body {
-
-height:100%;
-margin:0;
-padding:0;
-
-}
-
-#map {
-
-height:100%;
-
-}
-
-.flight-label {
-
-font-size:12px;
-font-weight:bold;
-
-}
-
-</style>
-
+    .plane-icon {
+      font-size: 24px;
+      transform-origin: center center;
+    }
+  </style>
 </head>
 
 <body>
 
 <div id="map"></div>
 
+<div id="panel">
+  <h2>Greenland–North Atlantic Flight Tracker</h2>
+  <p>Near-real-time aviation snapshot using OpenSky data.</p>
+  <p id="flightCount">Flights: loading...</p>
+</div>
+
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
 <script>
+const map = L.map("map").setView([68, -35], 4);
 
-const map = L.map('map').setView(
-[72,-40],
-4
-);
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  maxZoom: 18,
+  attribution: "© OpenStreetMap"
+}).addTo(map);
 
-L.tileLayer(
-'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-{
-maxZoom:19
-}
-).addTo(map);
+let flightLayer = null;
 
-let flightLayer;
-
-async function loadFlights(){
-
-try{
-
-const response =
-await fetch(
-'data/flights.geojson?'
-+ Date.now()
-);
-
-const data =
-await response.json();
-
-if(flightLayer){
-
-map.removeLayer(
-flightLayer
-);
-
+function planeIcon(heading) {
+  return L.divIcon({
+    html: `<div class="plane-icon" style="transform: rotate(${heading || 0}deg);">✈️</div>`,
+    className: "",
+    iconSize: [30, 30],
+    iconAnchor: [15, 15]
+  });
 }
 
-flightLayer =
-L.geoJSON(
-data,
-{
+async function loadFlights() {
+  const response = await fetch("data/flights.geojson?t=" + Date.now());
+  const data = await response.json();
 
-pointToLayer:
-function(feature,latlng){
+  if (flightLayer) {
+    map.removeLayer(flightLayer);
+  }
 
-return L.circleMarker(
-latlng,
-{
-radius:6,
-color:'red'
-}
-);
+  flightLayer = L.geoJSON(data, {
+    pointToLayer: function(feature, latlng) {
+      return L.marker(latlng, {
+        icon: planeIcon(feature.properties.heading)
+      });
+    },
 
-},
+    onEachFeature: function(feature, layer) {
+      const p = feature.properties;
 
-onEachFeature:
-function(feature,layer){
+      layer.bindTooltip(
+        `<b>${p.callsign}</b><br>${p.altitude_ft || "NA"} ft`,
+        { permanent: false }
+      );
 
-const p =
-feature.properties;
+      layer.bindPopup(`
+        <b>${p.callsign}</b><br>
+        Country: ${p.country || "NA"}<br>
+        Altitude: ${p.altitude_ft || "NA"} ft<br>
+        Speed: ${p.speed_kmh || "NA"} km/h<br>
+        Heading: ${p.heading || "NA"}°<br>
+        Updated: ${p.updated_utc || "NA"}
+      `);
+    }
+  }).addTo(map);
 
-layer.bindPopup(
-
-"<b>"
-+ p.callsign +
-"</b><br>" +
-
-"Altitude: "
-+ p.altitude_ft +
-" ft<br>" +
-
-"Speed: "
-+ p.speed_kmh +
-" km/h<br>" +
-
-"Heading: "
-+ p.heading
-
-);
-
-layer.bindTooltip(
-
-p.callsign,
-
-{
-permanent:false
-}
-
-);
-
-}
-
-}
-
-).addTo(map);
-
-}
-catch(error){
-
-console.log(error);
-
-}
-
+  document.getElementById("flightCount").innerText =
+    "Flights: " + data.features.length;
 }
 
 loadFlights();
-
-setInterval(
-loadFlights,
-20000
-);
-
+setInterval(loadFlights, 60000);
 </script>
 
 </body>
