@@ -6,17 +6,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.6155,
-          69.0201
+          -65.3484,
+          72.8081
         ]
       },
       "properties": {
-        "callsign": "DAL21",
+        "callsign": "UNKNOWN",
+        "country": "Sweden",
+        "altitude_ft": 39000,
+        "speed_kmh": 957,
+        "heading": 76.69,
+        "updated_utc": "2026-07-12 03:53:20 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8572,
+          69.2823
+        ]
+      },
+      "properties": {
+        "callsign": "DLH493",
+        "country": "Germany",
+        "altitude_ft": 36000,
+        "speed_kmh": 936,
+        "heading": 76.38,
+        "updated_utc": "2026-07-12 03:53:20 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7762,
+          63.8299
+        ]
+      },
+      "properties": {
+        "callsign": "DAL142",
         "country": "United States",
-        "altitude_ft": 38000,
-        "speed_kmh": 873,
-        "heading": 268.3,
-        "updated_utc": "2026-07-11 22:11:00 UTC"
+        "altitude_ft": 39000,
+        "speed_kmh": 942,
+        "heading": 111.93,
+        "updated_utc": "2026-07-12 03:53:20 UTC"
       }
     },
     {
@@ -24,17 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.3461,
-          71.4763
+          -22.181,
+          63.5217
         ]
       },
       "properties": {
-        "callsign": "BAW5VY",
-        "country": "United Kingdom",
-        "altitude_ft": 38000,
-        "speed_kmh": 907,
-        "heading": 257.38,
-        "updated_utc": "2026-07-11 22:11:00 UTC"
+        "callsign": "UAL901",
+        "country": "United States",
+        "altitude_ft": 39000,
+        "speed_kmh": 958,
+        "heading": 117.01,
+        "updated_utc": "2026-07-12 03:53:20 UTC"
       }
     },
     {
@@ -42,17 +78,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.4292,
-          64.5169
+          -65.3508,
+          69.8184
         ]
       },
       "properties": {
-        "callsign": "FNA77D",
-        "country": "Iceland",
-        "altitude_ft": 7775,
-        "speed_kmh": 384,
-        "heading": 233.24,
-        "updated_utc": "2026-07-11 22:11:00 UTC"
+        "callsign": "CFG091",
+        "country": "Germany",
+        "altitude_ft": 37000,
+        "speed_kmh": 917,
+        "heading": 81.05,
+        "updated_utc": "2026-07-12 03:53:20 UTC"
       }
     }
   ]
