@@ -6,35 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -18.6819,
-          63.2083
+          -72.6729,
+          69.3509
         ]
       },
       "properties": {
-        "callsign": "EJU96FZ",
-        "country": "Austria",
-        "altitude_ft": 30400,
-        "speed_kmh": 937,
-        "heading": 114.64,
-        "updated_utc": "2026-07-13 21:33:29 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.7407,
-          70.0918
-        ]
-      },
-      "properties": {
-        "callsign": "AKT814",
+        "callsign": "PNO711",
         "country": "Canada",
-        "altitude_ft": 10550,
-        "speed_kmh": 452,
-        "heading": 349.61,
-        "updated_utc": "2026-07-13 21:33:29 UTC"
+        "altitude_ft": 25000,
+        "speed_kmh": 518,
+        "heading": 161.89,
+        "updated_utc": "2026-07-13 22:35:02 UTC"
       }
     },
     {
@@ -42,17 +24,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.5739,
-          70.0027
+          -66.6167,
+          68.0541
         ]
       },
       "properties": {
-        "callsign": "ASA101",
+        "callsign": "ICE11P",
+        "country": "Iceland",
+        "altitude_ft": 36000,
+        "speed_kmh": 819,
+        "heading": 268.96,
+        "updated_utc": "2026-07-13 22:35:02 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7481,
+          63.3647
+        ]
+      },
+      "properties": {
+        "callsign": "ICE581",
+        "country": "Iceland",
+        "altitude_ft": 23575,
+        "speed_kmh": 787,
+        "heading": 317.86,
+        "updated_utc": "2026-07-13 22:35:02 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4476,
+          70.8571
+        ]
+      },
+      "properties": {
+        "callsign": "DAL21",
         "country": "United States",
-        "altitude_ft": 35975,
-        "speed_kmh": 863,
-        "heading": 269.14,
-        "updated_utc": "2026-07-13 21:33:29 UTC"
+        "altitude_ft": 37000,
+        "speed_kmh": 850,
+        "heading": 261.73,
+        "updated_utc": "2026-07-13 22:35:02 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5173,
+          70.369
+        ]
+      },
+      "properties": {
+        "callsign": "AKT815",
+        "country": "Canada",
+        "altitude_ft": 7325,
+        "speed_kmh": 306,
+        "heading": 180,
+        "updated_utc": "2026-07-13 22:35:02 UTC"
       }
     }
   ]
