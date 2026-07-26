@@ -6,53 +6,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -18.6197,
-          62.5466
+          -60.6079,
+          68.9897
         ]
       },
       "properties": {
-        "callsign": "UAL901",
+        "callsign": "ELY005",
+        "country": "Israel",
+        "altitude_ft": 35975,
+        "speed_kmh": 905,
+        "heading": 267.07,
+        "updated_utc": "2026-07-26 06:28:53 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6876,
+          63.7912
+        ]
+      },
+      "properties": {
+        "callsign": "UAL138",
+        "country": "United States",
+        "altitude_ft": 3700,
+        "speed_kmh": 375,
+        "heading": 70.4,
+        "updated_utc": "2026-07-26 06:28:53 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.8466,
+          63.6574
+        ]
+      },
+      "properties": {
+        "callsign": "ICE820",
+        "country": "Iceland",
+        "altitude_ft": 16875,
+        "speed_kmh": 784,
+        "heading": 76.19,
+        "updated_utc": "2026-07-26 06:28:53 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.2426,
+          62.7546
+        ]
+      },
+      "properties": {
+        "callsign": "UAL923",
         "country": "United States",
         "altitude_ft": 38975,
-        "speed_kmh": 999,
-        "heading": 126.4,
-        "updated_utc": "2026-07-26 03:52:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -25.692,
-          63.2579
-        ]
-      },
-      "properties": {
-        "callsign": "ACA942",
-        "country": "Canada",
-        "altitude_ft": 39000,
-        "speed_kmh": 988,
-        "heading": 113.06,
-        "updated_utc": "2026-07-26 03:52:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.1329,
-          59.3306
-        ]
-      },
-      "properties": {
-        "callsign": "JAL41",
-        "country": "Japan",
-        "altitude_ft": 40975,
-        "speed_kmh": 964,
-        "heading": 165.43,
-        "updated_utc": "2026-07-26 03:52:51 UTC"
+        "speed_kmh": 986,
+        "heading": 125.6,
+        "updated_utc": "2026-07-26 06:28:53 UTC"
       }
     }
   ]
