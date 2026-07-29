@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6056,
-          63.835
+          -21.7905,
+          63.952
         ]
       },
       "properties": {
-        "callsign": "LOT5MC",
+        "callsign": "LOT500",
         "country": "Poland",
-        "altitude_ft": 2800,
-        "speed_kmh": 332,
-        "heading": 359.68,
-        "updated_utc": "2026-07-28 23:37:30 UTC"
+        "altitude_ft": 13150,
+        "speed_kmh": 596,
+        "heading": 111.31,
+        "updated_utc": "2026-07-29 01:06:31 UTC"
       }
     },
     {
@@ -24,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.624,
-          63.9917
+          -22.6094,
+          63.9679
         ]
       },
       "properties": {
-        "callsign": "ICE138",
+        "callsign": "ICE524",
         "country": "Iceland",
         "altitude_ft": null,
-        "speed_kmh": 37,
-        "heading": 270,
-        "updated_utc": "2026-07-28 23:37:30 UTC"
+        "speed_kmh": 50,
+        "heading": 180,
+        "updated_utc": "2026-07-29 01:06:31 UTC"
       }
     },
     {
@@ -42,17 +42,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -18.5376,
-          63.0769
+          -21.6829,
+          63.7112
         ]
       },
       "properties": {
-        "callsign": "OCN1WZ",
-        "country": "Germany",
-        "altitude_ft": 36000,
-        "speed_kmh": 859,
-        "heading": 293.64,
-        "updated_utc": "2026-07-28 23:37:30 UTC"
+        "callsign": "ICE48P",
+        "country": "Iceland",
+        "altitude_ft": 16775,
+        "speed_kmh": 626,
+        "heading": 133.8,
+        "updated_utc": "2026-07-29 01:06:31 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8021,
+          62.9086
+        ]
+      },
+      "properties": {
+        "callsign": "IBS1926",
+        "country": "Spain",
+        "altitude_ft": 34975,
+        "speed_kmh": 849,
+        "heading": 117.4,
+        "updated_utc": "2026-07-29 01:06:31 UTC"
       }
     }
   ]
