@@ -6,53 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.2087,
-          63.985
-        ]
-      },
-      "properties": {
-        "callsign": "ICE136",
-        "country": "Iceland",
-        "altitude_ft": 11750,
-        "speed_kmh": 376,
-        "heading": 75.14,
-        "updated_utc": "2026-08-01 21:07:32 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -26.2714,
-          62.118
-        ]
-      },
-      "properties": {
-        "callsign": "THY11",
-        "country": "Turkey",
-        "altitude_ft": 34000,
-        "speed_kmh": 908,
-        "heading": 268.83,
-        "updated_utc": "2026-08-01 21:07:32 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.6086,
-          63.9647
+          -9.2437,
+          60.449
         ]
       },
       "properties": {
         "callsign": "VLG6013",
         "country": "Spain",
-        "altitude_ft": null,
-        "speed_kmh": 27,
-        "heading": 118.12,
-        "updated_utc": "2026-08-01 21:07:32 UTC"
+        "altitude_ft": 35000,
+        "speed_kmh": 909,
+        "heading": 148.84,
+        "updated_utc": "2026-08-01 22:08:46 UTC"
       }
     },
     {
@@ -60,17 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.5954,
-          63.9851
+          -6.2658,
+          59.7322
         ]
       },
       "properties": {
-        "callsign": "YUMPD",
-        "country": "Serbia",
-        "altitude_ft": null,
-        "speed_kmh": 35,
-        "heading": 87.19,
-        "updated_utc": "2026-08-01 21:07:32 UTC"
+        "callsign": "DLH4UA",
+        "country": "Germany",
+        "altitude_ft": 34000,
+        "speed_kmh": 771,
+        "heading": 309.15,
+        "updated_utc": "2026-08-01 22:08:46 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8134,
+          63.7006
+        ]
+      },
+      "properties": {
+        "callsign": "BOX383",
+        "country": "Germany",
+        "altitude_ft": 35000,
+        "speed_kmh": 910,
+        "heading": 118.44,
+        "updated_utc": "2026-08-01 22:08:46 UTC"
       }
     }
   ]
