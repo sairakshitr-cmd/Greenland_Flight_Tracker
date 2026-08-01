@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6066,
-          63.9917
+          -22.6057,
+          63.9559
         ]
       },
       "properties": {
-        "callsign": "ICE7LI",
+        "callsign": "ICE670",
         "country": "Iceland",
-        "altitude_ft": null,
-        "speed_kmh": 26,
-        "heading": 286.88,
-        "updated_utc": "2026-08-01 01:57:24 UTC"
+        "altitude_ft": 225,
+        "speed_kmh": 226,
+        "heading": 0.47,
+        "updated_utc": "2026-08-01 05:24:17 UTC"
       }
     },
     {
@@ -24,17 +24,161 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.6591,
-          58.9316
+          -22.5985,
+          63.991
         ]
       },
       "properties": {
-        "callsign": "ICE534",
+        "callsign": "UNKNOWN",
         "country": "Iceland",
-        "altitude_ft": 36975,
-        "speed_kmh": 886,
-        "heading": 131.19,
-        "updated_utc": "2026-08-01 01:57:24 UTC"
+        "altitude_ft": null,
+        "speed_kmh": 70,
+        "heading": 135,
+        "updated_utc": "2026-08-01 05:24:17 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5128,
+          70.4901
+        ]
+      },
+      "properties": {
+        "callsign": "N",
+        "country": "Canada",
+        "altitude_ft": null,
+        "speed_kmh": 3,
+        "heading": 196.88,
+        "updated_utc": "2026-08-01 05:24:17 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8726,
+          67.5149
+        ]
+      },
+      "properties": {
+        "callsign": "SAS936",
+        "country": "Norway",
+        "altitude_ft": 39000,
+        "speed_kmh": 919,
+        "heading": 74.09,
+        "updated_utc": "2026-08-01 05:24:17 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.4663,
+          62.9485
+        ]
+      },
+      "properties": {
+        "callsign": "ICE622",
+        "country": "Iceland",
+        "altitude_ft": 34000,
+        "speed_kmh": 810,
+        "heading": 61.73,
+        "updated_utc": "2026-08-01 05:24:17 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.7396,
+          63.4539
+        ]
+      },
+      "properties": {
+        "callsign": "UNKNOWN",
+        "country": "United States",
+        "altitude_ft": 35000,
+        "speed_kmh": 916,
+        "heading": 112.21,
+        "updated_utc": "2026-08-01 05:24:17 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.6134,
+          62.5442
+        ]
+      },
+      "properties": {
+        "callsign": "DLH491",
+        "country": "Germany",
+        "altitude_ft": 37000,
+        "speed_kmh": 912,
+        "heading": 126.24,
+        "updated_utc": "2026-08-01 05:24:17 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.424,
+          61.4185
+        ]
+      },
+      "properties": {
+        "callsign": "BAW2278",
+        "country": "United Kingdom",
+        "altitude_ft": 39000,
+        "speed_kmh": 958,
+        "heading": 124.37,
+        "updated_utc": "2026-08-01 05:24:17 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7336,
+          61.7675
+        ]
+      },
+      "properties": {
+        "callsign": "KLM676",
+        "country": "Kingdom of the Netherlands",
+        "altitude_ft": 39000,
+        "speed_kmh": 944,
+        "heading": 127.18,
+        "updated_utc": "2026-08-01 05:24:17 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2196,
+          67.9078
+        ]
+      },
+      "properties": {
+        "callsign": "KLM226",
+        "country": "Kingdom of the Netherlands",
+        "altitude_ft": 36000,
+        "speed_kmh": 901,
+        "heading": 84.1,
+        "updated_utc": "2026-08-01 05:24:17 UTC"
       }
     }
   ]
