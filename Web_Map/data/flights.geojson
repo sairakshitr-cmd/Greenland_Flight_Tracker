@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.0483,
-          63.4279
+          -5.3164,
+          59.5213
         ]
       },
       "properties": {
-        "callsign": "ICE597",
+        "callsign": "THY6626",
+        "country": "Turkey",
+        "altitude_ft": 32000,
+        "speed_kmh": 791,
+        "heading": 306.15,
+        "updated_utc": "2026-08-02 21:36:57 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.8697,
+          64.8518
+        ]
+      },
+      "properties": {
+        "callsign": "FNA78B",
         "country": "Iceland",
-        "altitude_ft": 11225,
-        "speed_kmh": 524,
-        "heading": 326.81,
-        "updated_utc": "2026-08-02 20:42:58 UTC"
+        "altitude_ft": 19000,
+        "speed_kmh": 466,
+        "heading": 53.72,
+        "updated_utc": "2026-08-02 21:36:57 UTC"
       }
     },
     {
@@ -24,53 +42,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -24.8858,
-          64.0276
+          -22.3141,
+          63.7527
         ]
       },
       "properties": {
-        "callsign": "ICE855",
-        "country": "Iceland",
-        "altitude_ft": 19650,
-        "speed_kmh": 730,
-        "heading": 271.74,
-        "updated_utc": "2026-08-02 20:42:58 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -27.8395,
-          62.8571
-        ]
-      },
-      "properties": {
-        "callsign": "N194QS",
-        "country": "United States",
-        "altitude_ft": 43000,
-        "speed_kmh": 926,
-        "heading": 279.56,
-        "updated_utc": "2026-08-02 20:42:58 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.805,
-          68.9861
-        ]
-      },
-      "properties": {
-        "callsign": "ASA101",
-        "country": "United States",
-        "altitude_ft": 36000,
-        "speed_kmh": 888,
-        "heading": 266.89,
-        "updated_utc": "2026-08-02 20:42:58 UTC"
+        "callsign": "NOS7959",
+        "country": "Ireland",
+        "altitude_ft": 5100,
+        "speed_kmh": 461,
+        "heading": 296.98,
+        "updated_utc": "2026-08-02 21:36:57 UTC"
       }
     }
   ]
