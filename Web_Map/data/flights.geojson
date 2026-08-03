@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.5815,
-          63.9802
+          -21.7768,
+          63.6836
         ]
       },
       "properties": {
-        "callsign": "TOR800",
+        "callsign": "ICE581",
+        "country": "Iceland",
+        "altitude_ft": 8575,
+        "speed_kmh": 525,
+        "heading": 320.01,
+        "updated_utc": "2026-08-03 22:32:20 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0139,
+          70.5655
+        ]
+      },
+      "properties": {
+        "callsign": "KUK848",
         "country": "Canada",
-        "altitude_ft": null,
-        "speed_kmh": 14,
-        "heading": 180,
-        "updated_utc": "2026-08-03 21:19:46 UTC"
+        "altitude_ft": 21975,
+        "speed_kmh": 438,
+        "heading": 317.4,
+        "updated_utc": "2026-08-03 22:32:20 UTC"
       }
     }
   ]
