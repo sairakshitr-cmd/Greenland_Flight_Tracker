@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -18.8338,
-          62.2838
+          -22.4864,
+          64.1521
         ]
       },
       "properties": {
-        "callsign": "ICE455",
-        "country": "Iceland",
-        "altitude_ft": 38000,
-        "speed_kmh": 833,
-        "heading": 320.86,
-        "updated_utc": "2026-08-04 22:42:07 UTC"
+        "callsign": "LOT5MC",
+        "country": "Poland",
+        "altitude_ft": 3825,
+        "speed_kmh": 421,
+        "heading": 250.45,
+        "updated_utc": "2026-08-04 23:41:41 UTC"
       }
     },
     {
@@ -24,17 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6145,
-          63.9917
+          -22.8574,
+          64.1562
         ]
       },
       "properties": {
-        "callsign": "ICE581",
+        "callsign": "ICE138",
+        "country": "Iceland",
+        "altitude_ft": 5150,
+        "speed_kmh": 373,
+        "heading": 71.48,
+        "updated_utc": "2026-08-04 23:41:41 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6199,
+          63.9922
+        ]
+      },
+      "properties": {
+        "callsign": "ICE217",
         "country": "Iceland",
         "altitude_ft": null,
-        "speed_kmh": 27,
-        "heading": 270,
-        "updated_utc": "2026-08-04 22:42:07 UTC"
+        "speed_kmh": 22,
+        "heading": 357.19,
+        "updated_utc": "2026-08-04 23:41:41 UTC"
       }
     },
     {
@@ -42,17 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.4009,
-          60.5578
+          -22.6056,
+          64.0381
         ]
       },
       "properties": {
         "callsign": "IBS1925",
         "country": "Spain",
-        "altitude_ft": 33975,
-        "speed_kmh": 860,
-        "heading": 341.29,
-        "updated_utc": "2026-08-04 22:42:07 UTC"
+        "altitude_ft": 1050,
+        "speed_kmh": 248,
+        "heading": 180,
+        "updated_utc": "2026-08-04 23:41:41 UTC"
       }
     }
   ]
