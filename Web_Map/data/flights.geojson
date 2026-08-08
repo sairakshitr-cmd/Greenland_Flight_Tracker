@@ -6,53 +6,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.2435,
-          63.7624
+          -22.6094,
+          63.9773
         ]
       },
       "properties": {
-        "callsign": "LOT5MC",
-        "country": "Poland",
-        "altitude_ft": 5725,
-        "speed_kmh": 500,
-        "heading": 274.68,
-        "updated_utc": "2026-08-07 23:45:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -19.1961,
-          63.6088
-        ]
-      },
-      "properties": {
-        "callsign": "BTI2HU",
-        "country": "Latvia",
-        "altitude_ft": 27875,
-        "speed_kmh": 787,
-        "heading": 277.84,
-        "updated_utc": "2026-08-07 23:45:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.6146,
-          63.9917
-        ]
-      },
-      "properties": {
-        "callsign": "AUA973",
-        "country": "Austria",
+        "callsign": "UNKNOWN",
+        "country": "Iceland",
         "altitude_ft": null,
-        "speed_kmh": 37,
-        "heading": 270,
-        "updated_utc": "2026-08-07 23:45:51 UTC"
+        "speed_kmh": 48,
+        "heading": 180,
+        "updated_utc": "2026-08-08 00:56:44 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.6021,
+          63.7538
+        ]
+      },
+      "properties": {
+        "callsign": "ICE534",
+        "country": "Iceland",
+        "altitude_ft": 35500,
+        "speed_kmh": 861,
+        "heading": 100.54,
+        "updated_utc": "2026-08-08 00:56:44 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4765,
+          63.87
+        ]
+      },
+      "properties": {
+        "callsign": "AUA97B",
+        "country": "Austria",
+        "altitude_ft": 19275,
+        "speed_kmh": 721,
+        "heading": 113.14,
+        "updated_utc": "2026-08-08 00:56:44 UTC"
       }
     }
   ]
