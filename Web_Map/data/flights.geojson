@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.5243,
-          69.5224
+          -21.9509,
+          62.057
         ]
       },
       "properties": {
-        "callsign": "N",
-        "country": "Canada",
-        "altitude_ft": 24000,
-        "speed_kmh": 469,
-        "heading": 180.23,
-        "updated_utc": "2026-08-09 03:02:55 UTC"
+        "callsign": "DHK316",
+        "country": "United Kingdom",
+        "altitude_ft": 32025,
+        "speed_kmh": 886,
+        "heading": 272.75,
+        "updated_utc": "2026-08-09 04:33:46 UTC"
       }
     },
     {
@@ -24,17 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.3677,
-          64.0773
+          -18.8559,
+          62.1254
         ]
       },
       "properties": {
-        "callsign": "N804MS",
+        "callsign": "DLH491",
+        "country": "Germany",
+        "altitude_ft": 39000,
+        "speed_kmh": 948,
+        "heading": 125.62,
+        "updated_utc": "2026-08-09 04:33:46 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.7445,
+          63.2422
+        ]
+      },
+      "properties": {
+        "callsign": "AAL293",
         "country": "United States",
-        "altitude_ft": 8325,
-        "speed_kmh": 525,
-        "heading": 95.87,
-        "updated_utc": "2026-08-09 03:02:55 UTC"
+        "altitude_ft": 38000,
+        "speed_kmh": 936,
+        "heading": 262.27,
+        "updated_utc": "2026-08-09 04:33:46 UTC"
       }
     },
     {
@@ -42,17 +60,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6057,
-          63.8661
+          -25.9283,
+          63.3075
         ]
       },
       "properties": {
-        "callsign": "ICE85V",
-        "country": "Iceland",
-        "altitude_ft": 2275,
-        "speed_kmh": 337,
-        "heading": 359.69,
-        "updated_utc": "2026-08-09 03:02:55 UTC"
+        "callsign": "MSR947",
+        "country": "Egypt",
+        "altitude_ft": 36000,
+        "speed_kmh": 943,
+        "heading": 262.89,
+        "updated_utc": "2026-08-09 04:33:46 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4365,
+          60.7309
+        ]
+      },
+      "properties": {
+        "callsign": "DAL204",
+        "country": "United States",
+        "altitude_ft": 37000,
+        "speed_kmh": 944,
+        "heading": 101.66,
+        "updated_utc": "2026-08-09 04:33:46 UTC"
       }
     }
   ]
