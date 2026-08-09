@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.7379,
-          69.0539
+          -21.8361,
+          64.3053
         ]
       },
       "properties": {
-        "callsign": "UNKNOWN",
-        "country": "United States",
-        "altitude_ft": 37000,
-        "speed_kmh": 978,
-        "heading": 266.53,
-        "updated_utc": "2026-08-09 20:59:37 UTC"
+        "callsign": "TFHRN",
+        "country": "Iceland",
+        "altitude_ft": 1650,
+        "speed_kmh": 210,
+        "heading": 355.95,
+        "updated_utc": "2026-08-09 21:35:02 UTC"
       }
     },
     {
@@ -24,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.9405,
+          -21.9401,
           64.1242
         ]
       },
       "properties": {
         "callsign": "TFHAH",
         "country": "Iceland",
-        "altitude_ft": null,
+        "altitude_ft": -25,
         "speed_kmh": null,
-        "heading": 30.94,
-        "updated_utc": "2026-08-09 20:59:37 UTC"
+        "heading": 0,
+        "updated_utc": "2026-08-09 21:35:02 UTC"
       }
     },
     {
@@ -42,17 +42,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.102,
-          65.7697
+          -21.9265,
+          64.0969
         ]
       },
       "properties": {
-        "callsign": "AFR028",
-        "country": "France",
-        "altitude_ft": 37000,
-        "speed_kmh": 896,
-        "heading": 300.27,
-        "updated_utc": "2026-08-09 20:59:37 UTC"
+        "callsign": "TF ERV",
+        "country": "Iceland",
+        "altitude_ft": 550,
+        "speed_kmh": 131,
+        "heading": 323.62,
+        "updated_utc": "2026-08-09 21:35:02 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.3061,
+          61.7229
+        ]
+      },
+      "properties": {
+        "callsign": "BOX442",
+        "country": "Germany",
+        "altitude_ft": 32000,
+        "speed_kmh": 895,
+        "heading": 280.73,
+        "updated_utc": "2026-08-09 21:35:02 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8756,
+          58.9772
+        ]
+      },
+      "properties": {
+        "callsign": "WMT9SK",
+        "country": "Malta",
+        "altitude_ft": 34975,
+        "speed_kmh": 916,
+        "heading": 133.77,
+        "updated_utc": "2026-08-09 21:35:02 UTC"
       }
     }
   ]
