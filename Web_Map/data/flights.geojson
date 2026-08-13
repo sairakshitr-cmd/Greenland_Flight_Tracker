@@ -6,53 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -25.8676,
-          64.7397
+          -73.163,
+          69.3288
         ]
       },
       "properties": {
-        "callsign": "ICE102",
-        "country": "Iceland",
-        "altitude_ft": 25000,
-        "speed_kmh": 607,
-        "heading": 105.95,
-        "updated_utc": "2026-08-13 21:10:40 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.3703,
-          69.4021
-        ]
-      },
-      "properties": {
-        "callsign": "BAW71K",
-        "country": "United Kingdom",
-        "altitude_ft": 37975,
-        "speed_kmh": 958,
-        "heading": 257.95,
-        "updated_utc": "2026-08-13 21:10:40 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.2238,
-          69.8183
-        ]
-      },
-      "properties": {
-        "callsign": "UAL927",
+        "callsign": "DAL21",
         "country": "United States",
-        "altitude_ft": 34975,
-        "speed_kmh": 958,
-        "heading": 255.56,
-        "updated_utc": "2026-08-13 21:10:40 UTC"
+        "altitude_ft": 36000,
+        "speed_kmh": 925,
+        "heading": 254.32,
+        "updated_utc": "2026-08-13 22:00:31 UTC"
       }
     },
     {
@@ -60,17 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.5412,
-          64.1447
+          -73.6619,
+          69.7104
         ]
       },
       "properties": {
-        "callsign": "FLI459",
-        "country": "Denmark",
-        "altitude_ft": 3025,
-        "speed_kmh": 436,
-        "heading": 249.87,
-        "updated_utc": "2026-08-13 21:10:40 UTC"
+        "callsign": "BAW5VY",
+        "country": "United Kingdom",
+        "altitude_ft": 38000,
+        "speed_kmh": 957,
+        "heading": 256.34,
+        "updated_utc": "2026-08-13 22:00:31 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0539,
+          63.0715
+        ]
+      },
+      "properties": {
+        "callsign": "EJU93RF",
+        "country": "Austria",
+        "altitude_ft": 34950,
+        "speed_kmh": 852,
+        "heading": 115.23,
+        "updated_utc": "2026-08-13 22:00:31 UTC"
       }
     }
   ]
