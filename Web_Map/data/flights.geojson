@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -17.9637,
-          63.9071
+          -61.853,
+          69.9617
         ]
       },
       "properties": {
-        "callsign": "ACA838",
-        "country": "Canada",
-        "altitude_ft": 39000,
-        "speed_kmh": 943,
-        "heading": 124.6,
-        "updated_utc": "2026-08-13 03:13:08 UTC"
+        "callsign": "UAE93Q",
+        "country": "United Arab Emirates",
+        "altitude_ft": 33000,
+        "speed_kmh": 940,
+        "heading": 85.59,
+        "updated_utc": "2026-08-13 05:03:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.9649,
+          64.0528
+        ]
+      },
+      "properties": {
+        "callsign": "THY12E",
+        "country": "Turkey",
+        "altitude_ft": 36975,
+        "speed_kmh": 924,
+        "heading": 90,
+        "updated_utc": "2026-08-13 05:03:51 UTC"
       }
     }
   ]
