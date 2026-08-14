@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -18.8074,
-          63.8705
+          -5.8406,
+          58.9154
         ]
       },
       "properties": {
-        "callsign": "AUA97B",
-        "country": "Austria",
-        "altitude_ft": 26900,
-        "speed_kmh": 848,
-        "heading": 98.41,
-        "updated_utc": "2026-08-14 00:42:25 UTC"
+        "callsign": "THY184",
+        "country": "Turkey",
+        "altitude_ft": 36000,
+        "speed_kmh": 871,
+        "heading": 298.85,
+        "updated_utc": "2026-08-14 03:11:58 UTC"
       }
     },
     {
@@ -24,17 +24,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -19.655,
-          63.5267
+          -22.2498,
+          61.9148
         ]
       },
       "properties": {
-        "callsign": "WZZ4CT",
-        "country": "Malta",
-        "altitude_ft": 27825,
-        "speed_kmh": 785,
-        "heading": 114.99,
-        "updated_utc": "2026-08-14 00:42:25 UTC"
+        "callsign": "KLM616",
+        "country": "Kingdom of the Netherlands",
+        "altitude_ft": 39000,
+        "speed_kmh": 959,
+        "heading": 110.22,
+        "updated_utc": "2026-08-14 03:11:58 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6054,
+          63.9894
+        ]
+      },
+      "properties": {
+        "callsign": "ICE751",
+        "country": "Iceland",
+        "altitude_ft": null,
+        "speed_kmh": 48,
+        "heading": 0,
+        "updated_utc": "2026-08-14 03:11:58 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4368,
+          67.8562
+        ]
+      },
+      "properties": {
+        "callsign": "ICE50G",
+        "country": "Iceland",
+        "altitude_ft": 35000,
+        "speed_kmh": 864,
+        "heading": 82.86,
+        "updated_utc": "2026-08-14 03:11:58 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0105,
+          58.8029
+        ]
+      },
+      "properties": {
+        "callsign": "B8255",
+        "country": "China",
+        "altitude_ft": 41000,
+        "speed_kmh": 907,
+        "heading": 117.35,
+        "updated_utc": "2026-08-14 03:11:58 UTC"
       }
     }
   ]
