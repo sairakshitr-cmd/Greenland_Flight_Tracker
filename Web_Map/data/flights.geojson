@@ -6,17 +6,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.1379,
-          68.8929
+          -22.5761,
+          63.985
         ]
       },
       "properties": {
-        "callsign": "ICE11P",
+        "callsign": "SNOWKING",
         "country": "Iceland",
-        "altitude_ft": 34000,
-        "speed_kmh": 888,
-        "heading": 261.13,
-        "updated_utc": "2026-08-14 22:39:47 UTC"
+        "altitude_ft": null,
+        "speed_kmh": 35,
+        "heading": 87.19,
+        "updated_utc": "2026-08-14 22:57:28 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.3291,
+          69.9533
+        ]
+      },
+      "properties": {
+        "callsign": "DAL21",
+        "country": "United States",
+        "altitude_ft": 37000,
+        "speed_kmh": 912,
+        "heading": 281.83,
+        "updated_utc": "2026-08-14 22:57:28 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6098,
+          61.1559
+        ]
+      },
+      "properties": {
+        "callsign": "BTI2HU",
+        "country": "Latvia",
+        "altitude_ft": 36000,
+        "speed_kmh": 808,
+        "heading": 266.05,
+        "updated_utc": "2026-08-14 22:57:28 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.4082,
+          63.7343
+        ]
+      },
+      "properties": {
+        "callsign": "AUA973",
+        "country": "Austria",
+        "altitude_ft": 19050,
+        "speed_kmh": 607,
+        "heading": 273.15,
+        "updated_utc": "2026-08-14 22:57:28 UTC"
       }
     }
   ]
