@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.8406,
-          58.9154
+          -60.1313,
+          69.9985
         ]
       },
       "properties": {
-        "callsign": "THY184",
+        "callsign": "UAE93Q",
+        "country": "United Arab Emirates",
+        "altitude_ft": 33000,
+        "speed_kmh": 896,
+        "heading": 86.45,
+        "updated_utc": "2026-08-14 05:00:34 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.3319,
+          65.7873
+        ]
+      },
+      "properties": {
+        "callsign": "THY12E",
         "country": "Turkey",
-        "altitude_ft": 36000,
-        "speed_kmh": 871,
-        "heading": 298.85,
-        "updated_utc": "2026-08-14 03:11:58 UTC"
+        "altitude_ft": 37000,
+        "speed_kmh": 922,
+        "heading": 98.89,
+        "updated_utc": "2026-08-14 05:00:34 UTC"
       }
     },
     {
@@ -24,53 +42,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.2498,
-          61.9148
-        ]
-      },
-      "properties": {
-        "callsign": "KLM616",
-        "country": "Kingdom of the Netherlands",
-        "altitude_ft": 39000,
-        "speed_kmh": 959,
-        "heading": 110.22,
-        "updated_utc": "2026-08-14 03:11:58 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.6054,
-          63.9894
-        ]
-      },
-      "properties": {
-        "callsign": "ICE751",
-        "country": "Iceland",
-        "altitude_ft": null,
-        "speed_kmh": 48,
-        "heading": 0,
-        "updated_utc": "2026-08-14 03:11:58 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.4368,
-          67.8562
+          -28.8912,
+          65.4802
         ]
       },
       "properties": {
         "callsign": "ICE50G",
         "country": "Iceland",
         "altitude_ft": 35000,
-        "speed_kmh": 864,
-        "heading": 82.86,
-        "updated_utc": "2026-08-14 03:11:58 UTC"
+        "speed_kmh": 860,
+        "heading": 120.54,
+        "updated_utc": "2026-08-14 05:00:34 UTC"
       }
     },
     {
@@ -78,17 +60,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.0105,
-          58.8029
+          -6.5046,
+          59.7548
         ]
       },
       "properties": {
-        "callsign": "B8255",
-        "country": "China",
+        "callsign": "DLH491",
+        "country": "Germany",
         "altitude_ft": 41000,
-        "speed_kmh": 907,
-        "heading": 117.35,
-        "updated_utc": "2026-08-14 03:11:58 UTC"
+        "speed_kmh": 938,
+        "heading": 131.4,
+        "updated_utc": "2026-08-14 05:00:34 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5071,
+          59.5945
+        ]
+      },
+      "properties": {
+        "callsign": "DAL204",
+        "country": "United States",
+        "altitude_ft": 37000,
+        "speed_kmh": 933,
+        "heading": 86.59,
+        "updated_utc": "2026-08-14 05:00:34 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.007,
+          58.9782
+        ]
+      },
+      "properties": {
+        "callsign": "JAL41",
+        "country": "Japan",
+        "altitude_ft": 41000,
+        "speed_kmh": 904,
+        "heading": 165.65,
+        "updated_utc": "2026-08-14 05:00:34 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9887,
+          63.071
+        ]
+      },
+      "properties": {
+        "callsign": "LOT2098",
+        "country": "Poland",
+        "altitude_ft": 38975,
+        "speed_kmh": 963,
+        "heading": 91.54,
+        "updated_utc": "2026-08-14 05:00:34 UTC"
       }
     }
   ]
