@@ -6,17 +6,107 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.282,
-          61.7623
+          -61.2169,
+          69.9734
         ]
       },
       "properties": {
-        "callsign": "DAL204",
+        "callsign": "SAS938",
+        "country": "Sweden",
+        "altitude_ft": 41000,
+        "speed_kmh": 918,
+        "heading": 79.42,
+        "updated_utc": "2026-08-15 03:53:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.5388,
+          62.0159
+        ]
+      },
+      "properties": {
+        "callsign": "ACA43",
+        "country": "Canada",
+        "altitude_ft": 34000,
+        "speed_kmh": 834,
+        "heading": 265.92,
+        "updated_utc": "2026-08-15 03:53:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0686,
+          61.5583
+        ]
+      },
+      "properties": {
+        "callsign": "RJA293",
+        "country": "Jordan",
+        "altitude_ft": 38000,
+        "speed_kmh": 889,
+        "heading": 280.33,
+        "updated_utc": "2026-08-15 03:53:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.4936,
+          62.0885
+        ]
+      },
+      "properties": {
+        "callsign": "DLH491",
+        "country": "Germany",
+        "altitude_ft": 41000,
+        "speed_kmh": 966,
+        "heading": 109.13,
+        "updated_utc": "2026-08-15 03:53:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.8501,
+          63.0917
+        ]
+      },
+      "properties": {
+        "callsign": "LOT2098",
+        "country": "Poland",
+        "altitude_ft": 38975,
+        "speed_kmh": 967,
+        "heading": 88.13,
+        "updated_utc": "2026-08-15 03:53:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.0197,
+          61.8248
+        ]
+      },
+      "properties": {
+        "callsign": "N481GV",
         "country": "United States",
-        "altitude_ft": 37000,
-        "speed_kmh": 912,
-        "heading": 70.79,
-        "updated_utc": "2026-08-15 03:12:41 UTC"
+        "altitude_ft": 40000,
+        "speed_kmh": 860,
+        "heading": 311.24,
+        "updated_utc": "2026-08-15 03:53:16 UTC"
       }
     }
   ]
