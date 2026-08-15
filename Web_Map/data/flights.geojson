@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -24.6725,
-          64.0846
+          -21.9054,
+          64.1608
         ]
       },
       "properties": {
-        "callsign": "N333UC",
-        "country": "United States",
-        "altitude_ft": 27575,
-        "speed_kmh": 822,
-        "heading": 270.39,
-        "updated_utc": "2026-08-15 20:57:26 UTC"
+        "callsign": "TFSPY",
+        "country": "Iceland",
+        "altitude_ft": 1350,
+        "speed_kmh": 188,
+        "heading": 123.38,
+        "updated_utc": "2026-08-15 21:17:42 UTC"
       }
     },
     {
@@ -24,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.4621,
-          69.945
+          -71.7386,
+          69.8729
         ]
       },
       "properties": {
         "callsign": "BAW49",
         "country": "United Kingdom",
         "altitude_ft": 36000,
-        "speed_kmh": 948,
-        "heading": 265.4,
-        "updated_utc": "2026-08-15 20:57:26 UTC"
+        "speed_kmh": 944,
+        "heading": 257.3,
+        "updated_utc": "2026-08-15 21:17:42 UTC"
       }
     },
     {
@@ -42,17 +42,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.1487,
-          60.7156
+          -21.4696,
+          64.2306
         ]
       },
       "properties": {
-        "callsign": "WZZ1377",
-        "country": "Hungary",
-        "altitude_ft": 35000,
-        "speed_kmh": 875,
-        "heading": 124.13,
-        "updated_utc": "2026-08-15 20:57:26 UTC"
+        "callsign": "TF162",
+        "country": "Iceland",
+        "altitude_ft": 2775,
+        "speed_kmh": 137,
+        "heading": 59.97,
+        "updated_utc": "2026-08-15 21:17:42 UTC"
       }
     },
     {
@@ -60,17 +60,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.659,
-          63.049
+          -17.8358,
+          63.8647
+        ]
+      },
+      "properties": {
+        "callsign": "THY11",
+        "country": "Turkey",
+        "altitude_ft": 34000,
+        "speed_kmh": 847,
+        "heading": 280.2,
+        "updated_utc": "2026-08-15 21:17:42 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.4333,
+          63.0676
         ]
       },
       "properties": {
         "callsign": "THY29M",
         "country": "Turkey",
         "altitude_ft": 38000,
-        "speed_kmh": 864,
-        "heading": 272.95,
-        "updated_utc": "2026-08-15 20:57:26 UTC"
+        "speed_kmh": 871,
+        "heading": 267.81,
+        "updated_utc": "2026-08-15 21:17:42 UTC"
       }
     },
     {
@@ -78,17 +96,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -28.743,
-          65.7173
+          -66.0965,
+          69.9864
         ]
       },
       "properties": {
-        "callsign": "ICE11P",
+        "callsign": "BAW5VY",
+        "country": "United Kingdom",
+        "altitude_ft": 37000,
+        "speed_kmh": 981,
+        "heading": 272.49,
+        "updated_utc": "2026-08-15 21:17:42 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6763,
+          64.486
+        ]
+      },
+      "properties": {
+        "callsign": "ICE70G",
         "country": "Iceland",
-        "altitude_ft": 34000,
-        "speed_kmh": 825,
-        "heading": 299.73,
-        "updated_utc": "2026-08-15 20:57:26 UTC"
+        "altitude_ft": 22875,
+        "speed_kmh": 542,
+        "heading": 68.96,
+        "updated_utc": "2026-08-15 21:17:42 UTC"
       }
     },
     {
@@ -96,17 +132,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.9337,
-          64.1322
+          -8.214,
+          59.562
         ]
       },
       "properties": {
-        "callsign": "N677JL",
-        "country": "United States",
-        "altitude_ft": null,
-        "speed_kmh": 0,
-        "heading": 267.19,
-        "updated_utc": "2026-08-15 20:57:26 UTC"
+        "callsign": "EJU98NA",
+        "country": "Austria",
+        "altitude_ft": 35000,
+        "speed_kmh": 851,
+        "heading": 149.53,
+        "updated_utc": "2026-08-15 21:17:42 UTC"
       }
     },
     {
@@ -114,53 +150,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -60.5058,
-          69.9917
+          -66.5948,
+          68.0543
+        ]
+      },
+      "properties": {
+        "callsign": "ASA181",
+        "country": "United States",
+        "altitude_ft": 35000,
+        "speed_kmh": 984,
+        "heading": 269.14,
+        "updated_utc": "2026-08-15 21:17:42 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2637,
+          70.0039
         ]
       },
       "properties": {
         "callsign": "BOX472",
         "country": "Germany",
         "altitude_ft": 32000,
-        "speed_kmh": 977,
-        "heading": 266.96,
-        "updated_utc": "2026-08-15 20:57:26 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -25.5628,
-          65.5686
-        ]
-      },
-      "properties": {
-        "callsign": "AFR026",
-        "country": "France",
-        "altitude_ft": 38000,
-        "speed_kmh": 883,
-        "heading": 300.22,
-        "updated_utc": "2026-08-15 20:57:26 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -17.5568,
-          63.7428
-        ]
-      },
-      "properties": {
-        "callsign": "WZZ89ZP",
-        "country": "Malta",
-        "altitude_ft": 32825,
-        "speed_kmh": 867,
-        "heading": 100.71,
-        "updated_utc": "2026-08-15 20:57:26 UTC"
+        "speed_kmh": 1004,
+        "heading": 269.37,
+        "updated_utc": "2026-08-15 21:17:42 UTC"
       }
     }
   ]
