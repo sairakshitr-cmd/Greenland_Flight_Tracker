@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.2169,
-          69.9734
+          -25.7406,
+          64.0676
         ]
       },
       "properties": {
-        "callsign": "SAS938",
-        "country": "Sweden",
-        "altitude_ft": 41000,
-        "speed_kmh": 918,
-        "heading": 79.42,
-        "updated_utc": "2026-08-15 03:53:16 UTC"
+        "callsign": "THY12E",
+        "country": "Turkey",
+        "altitude_ft": 36975,
+        "speed_kmh": 924,
+        "heading": 89.31,
+        "updated_utc": "2026-08-15 04:20:16 UTC"
       }
     },
     {
@@ -24,17 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -19.5388,
-          62.0159
+          -22.6056,
+          63.8846
+        ]
+      },
+      "properties": {
+        "callsign": "N81GJ",
+        "country": "United States",
+        "altitude_ft": 1800,
+        "speed_kmh": 248,
+        "heading": 359.57,
+        "updated_utc": "2026-08-15 04:20:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.6735,
+          61.7494
         ]
       },
       "properties": {
         "callsign": "ACA43",
         "country": "Canada",
-        "altitude_ft": 34000,
-        "speed_kmh": 834,
-        "heading": 265.92,
-        "updated_utc": "2026-08-15 03:53:16 UTC"
+        "altitude_ft": 36000,
+        "speed_kmh": 846,
+        "heading": 262.46,
+        "updated_utc": "2026-08-15 04:20:16 UTC"
       }
     },
     {
@@ -42,17 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.0686,
-          61.5583
+          -5.2893,
+          59.1655
         ]
       },
       "properties": {
-        "callsign": "RJA293",
-        "country": "Jordan",
-        "altitude_ft": 38000,
-        "speed_kmh": 889,
-        "heading": 280.33,
-        "updated_utc": "2026-08-15 03:53:16 UTC"
+        "callsign": "JAL41",
+        "country": "Japan",
+        "altitude_ft": 39975,
+        "speed_kmh": 957,
+        "heading": 169.3,
+        "updated_utc": "2026-08-15 04:20:16 UTC"
       }
     },
     {
@@ -60,35 +78,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.4936,
-          62.0885
-        ]
-      },
-      "properties": {
-        "callsign": "DLH491",
-        "country": "Germany",
-        "altitude_ft": 41000,
-        "speed_kmh": 966,
-        "heading": 109.13,
-        "updated_utc": "2026-08-15 03:53:16 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -25.8501,
-          63.0917
+          -17.6615,
+          62.9743
         ]
       },
       "properties": {
         "callsign": "LOT2098",
         "country": "Poland",
         "altitude_ft": 38975,
-        "speed_kmh": 967,
-        "heading": 88.13,
-        "updated_utc": "2026-08-15 03:53:16 UTC"
+        "speed_kmh": 958,
+        "heading": 95.44,
+        "updated_utc": "2026-08-15 04:20:16 UTC"
       }
     },
     {
@@ -96,17 +96,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -24.0197,
-          61.8248
+          -26.3901,
+          61.4536
         ]
       },
       "properties": {
-        "callsign": "N481GV",
+        "callsign": "LOT5T",
+        "country": "Poland",
+        "altitude_ft": 39000,
+        "speed_kmh": 968,
+        "heading": 76.95,
+        "updated_utc": "2026-08-15 04:20:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.082,
+          58.8314
+        ]
+      },
+      "properties": {
+        "callsign": "UAL83",
         "country": "United States",
-        "altitude_ft": 40000,
-        "speed_kmh": 860,
-        "heading": 311.24,
-        "updated_utc": "2026-08-15 03:53:16 UTC"
+        "altitude_ft": 36000,
+        "speed_kmh": 844,
+        "heading": 290.03,
+        "updated_utc": "2026-08-15 04:20:16 UTC"
       }
     }
   ]
