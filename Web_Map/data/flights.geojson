@@ -6,71 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.8143,
-          72.3739
+          -26.5818,
+          62.9366
         ]
       },
       "properties": {
-        "callsign": "UAE93Q",
-        "country": "United Arab Emirates",
-        "altitude_ft": 33000,
-        "speed_kmh": 848,
-        "heading": 74.93,
-        "updated_utc": "2026-08-15 04:53:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -27.2386,
-          61.5733
-        ]
-      },
-      "properties": {
-        "callsign": "AAL293",
-        "country": "United States",
-        "altitude_ft": 36000,
-        "speed_kmh": 877,
-        "heading": 267.94,
-        "updated_utc": "2026-08-15 04:53:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.9518,
-          62.0736
-        ]
-      },
-      "properties": {
-        "callsign": "RJA293",
-        "country": "Jordan",
-        "altitude_ft": 37975,
-        "speed_kmh": 879,
-        "heading": 272.66,
-        "updated_utc": "2026-08-15 04:53:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.5999,
-          63.985
-        ]
-      },
-      "properties": {
-        "callsign": "ICE721",
+        "callsign": "ICE630",
         "country": "Iceland",
-        "altitude_ft": null,
-        "speed_kmh": 119,
-        "heading": 270,
-        "updated_utc": "2026-08-15 04:53:51 UTC"
+        "altitude_ft": 35125,
+        "speed_kmh": 862,
+        "heading": 61.95,
+        "updated_utc": "2026-08-15 05:16:41 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.3436,
+          62.3818
+        ]
+      },
+      "properties": {
+        "callsign": "UAL194",
+        "country": "United States",
+        "altitude_ft": 37000,
+        "speed_kmh": 934,
+        "heading": 111.89,
+        "updated_utc": "2026-08-15 05:16:41 UTC"
       }
     }
   ]
