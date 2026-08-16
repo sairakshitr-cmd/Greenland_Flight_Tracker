@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.2335,
-          61.9972
+          -19.1574,
+          63.7403
         ]
       },
       "properties": {
-        "callsign": "ELY015",
-        "country": "Israel",
-        "altitude_ft": 38000,
-        "speed_kmh": 867,
-        "heading": 262.39,
-        "updated_utc": "2026-08-16 04:31:51 UTC"
+        "callsign": "RJA281",
+        "country": "Jordan",
+        "altitude_ft": 37975,
+        "speed_kmh": 881,
+        "heading": 278.22,
+        "updated_utc": "2026-08-16 05:04:31 UTC"
       }
     },
     {
@@ -24,89 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.2172,
-          72.6307
+          -22.8315,
+          62.2008
         ]
       },
       "properties": {
-        "callsign": "QTR68T",
-        "country": "Qatar",
-        "altitude_ft": 31000,
-        "speed_kmh": 862,
-        "heading": 78.35,
-        "updated_utc": "2026-08-16 04:31:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -23.1437,
-          63.7369
-        ]
-      },
-      "properties": {
-        "callsign": "N41GJ",
+        "callsign": "UAL83",
         "country": "United States",
-        "altitude_ft": 2975,
-        "speed_kmh": 437,
-        "heading": 77.26,
-        "updated_utc": "2026-08-16 04:31:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -25.3031,
-          61.8742
-        ]
-      },
-      "properties": {
-        "callsign": "AAL293",
-        "country": "United States",
-        "altitude_ft": 38000,
-        "speed_kmh": 878,
-        "heading": 262.61,
-        "updated_utc": "2026-08-16 04:31:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -24.5832,
-          63.0845
-        ]
-      },
-      "properties": {
-        "callsign": "LOT2",
-        "country": "Poland",
-        "altitude_ft": 36975,
-        "speed_kmh": 941,
-        "heading": 90.34,
-        "updated_utc": "2026-08-16 04:31:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.7379,
-          63.8752
-        ]
-      },
-      "properties": {
-        "callsign": "MSR947",
-        "country": "Egypt",
         "altitude_ft": 36000,
-        "speed_kmh": 869,
-        "heading": 275.63,
-        "updated_utc": "2026-08-16 04:31:51 UTC"
+        "speed_kmh": 867,
+        "heading": 269.76,
+        "updated_utc": "2026-08-16 05:04:31 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2164,
+          58.8139
+        ]
+      },
+      "properties": {
+        "callsign": "LOT5AH",
+        "country": "Poland",
+        "altitude_ft": 39000,
+        "speed_kmh": 987,
+        "heading": 102.13,
+        "updated_utc": "2026-08-16 05:04:31 UTC"
       }
     }
   ]
