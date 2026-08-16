@@ -6,35 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.8156,
-          60.5814
-        ]
-      },
-      "properties": {
-        "callsign": "WZZ6174",
-        "country": "Hungary",
-        "altitude_ft": 32025,
-        "speed_kmh": 727,
-        "heading": 278.65,
-        "updated_utc": "2026-08-16 21:54:14 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.4653,
-          65.0581
+          -26.5342,
+          65.0055
         ]
       },
       "properties": {
         "callsign": "THY29M",
         "country": "Turkey",
         "altitude_ft": 38000,
-        "speed_kmh": 841,
-        "heading": 271.01,
-        "updated_utc": "2026-08-16 21:54:14 UTC"
+        "speed_kmh": 848,
+        "heading": 266.37,
+        "updated_utc": "2026-08-16 22:11:16 UTC"
       }
     },
     {
@@ -42,17 +24,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -60.8199,
-          70.0188
+          -68.836,
+          70.3125
+        ]
+      },
+      "properties": {
+        "callsign": "N",
+        "country": "Canada",
+        "altitude_ft": 4175,
+        "speed_kmh": 320,
+        "heading": 24.64,
+        "updated_utc": "2026-08-16 22:11:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8987,
+          71.0448
+        ]
+      },
+      "properties": {
+        "callsign": "BAW5VY",
+        "country": "United Kingdom",
+        "altitude_ft": 38000,
+        "speed_kmh": 979,
+        "heading": 267.18,
+        "updated_utc": "2026-08-16 22:11:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.7459,
+          65.3181
+        ]
+      },
+      "properties": {
+        "callsign": "UNKNOWN",
+        "country": "United States",
+        "altitude_ft": 28775,
+        "speed_kmh": 812,
+        "heading": 258.02,
+        "updated_utc": "2026-08-16 22:11:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7665,
+          69.9374
         ]
       },
       "properties": {
         "callsign": "VIR23X",
         "country": "United Kingdom",
         "altitude_ft": 37975,
-        "speed_kmh": 976,
-        "heading": 266.74,
-        "updated_utc": "2026-08-16 21:54:14 UTC"
+        "speed_kmh": 983,
+        "heading": 274.65,
+        "updated_utc": "2026-08-16 22:11:16 UTC"
       }
     },
     {
@@ -60,17 +96,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.6848,
-          69.8053
+          -59.7121,
+          70.0411
         ]
       },
       "properties": {
-        "callsign": "FBU80G",
-        "country": "France",
+        "callsign": "VIR155M",
+        "country": "United Kingdom",
         "altitude_ft": 38000,
-        "speed_kmh": 985,
-        "heading": 263.85,
-        "updated_utc": "2026-08-16 21:54:14 UTC"
+        "speed_kmh": 975,
+        "heading": 265.64,
+        "updated_utc": "2026-08-16 22:11:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9996,
+          59.2999
+        ]
+      },
+      "properties": {
+        "callsign": "BOX385",
+        "country": "Germany",
+        "altitude_ft": 37000,
+        "speed_kmh": 1105,
+        "heading": 113.51,
+        "updated_utc": "2026-08-16 22:11:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.122,
+          61.1459
+        ]
+      },
+      "properties": {
+        "callsign": "EDW326",
+        "country": "Switzerland",
+        "altitude_ft": 36025,
+        "speed_kmh": 743,
+        "heading": 299.89,
+        "updated_utc": "2026-08-16 22:11:16 UTC"
       }
     }
   ]
