@@ -6,53 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.609,
-          63.9894
+          -60.8225,
+          68.9856
         ]
       },
       "properties": {
-        "callsign": "LOT5MC",
-        "country": "Poland",
-        "altitude_ft": null,
-        "speed_kmh": 17,
-        "heading": 317.81,
-        "updated_utc": "2026-08-15 23:55:10 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.6186,
-          63.9953
-        ]
-      },
-      "properties": {
-        "callsign": "ICE345",
-        "country": "Iceland",
-        "altitude_ft": null,
-        "speed_kmh": 3,
-        "heading": 0,
-        "updated_utc": "2026-08-15 23:55:10 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.5423,
-          68.9978
-        ]
-      },
-      "properties": {
-        "callsign": "UAL939",
-        "country": "United States",
+        "callsign": "THY81A",
+        "country": "Turkey",
         "altitude_ft": 39000,
-        "speed_kmh": 977,
-        "heading": 272.17,
-        "updated_utc": "2026-08-15 23:55:10 UTC"
+        "speed_kmh": 881,
+        "heading": 87.11,
+        "updated_utc": "2026-08-16 00:44:16 UTC"
       }
     },
     {
@@ -60,35 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.623,
-          63.9918
+          -20.5027,
+          63.9503
         ]
       },
       "properties": {
-        "callsign": "IBS1925",
-        "country": "Spain",
+        "callsign": "AUA97B",
+        "country": "Austria",
+        "altitude_ft": 21575,
+        "speed_kmh": 880,
+        "heading": 96.77,
+        "updated_utc": "2026-08-16 00:44:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6095,
+          63.9778
+        ]
+      },
+      "properties": {
+        "callsign": "EZS71BM",
+        "country": "Switzerland",
         "altitude_ft": null,
-        "speed_kmh": 20,
-        "heading": 298.12,
-        "updated_utc": "2026-08-15 23:55:10 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.6012,
-          63.8146
-        ]
-      },
-      "properties": {
-        "callsign": "OCN1WZ",
-        "country": "Germany",
-        "altitude_ft": 2975,
-        "speed_kmh": 364,
-        "heading": 343.13,
-        "updated_utc": "2026-08-15 23:55:10 UTC"
+        "speed_kmh": 46,
+        "heading": 180,
+        "updated_utc": "2026-08-16 00:44:16 UTC"
       }
     }
   ]
