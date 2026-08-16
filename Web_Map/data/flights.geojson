@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -60.8225,
-          68.9856
+          -5.296,
+          58.0208
         ]
       },
       "properties": {
-        "callsign": "THY81A",
-        "country": "Turkey",
-        "altitude_ft": 39000,
-        "speed_kmh": 881,
-        "heading": 87.11,
-        "updated_utc": "2026-08-16 00:44:16 UTC"
+        "callsign": "DHK362",
+        "country": "United Kingdom",
+        "altitude_ft": 32000,
+        "speed_kmh": 742,
+        "heading": 293.69,
+        "updated_utc": "2026-08-16 02:10:40 UTC"
       }
     },
     {
@@ -24,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.5027,
-          63.9503
+          -18.0669,
+          63.1681
         ]
       },
       "properties": {
-        "callsign": "AUA97B",
-        "country": "Austria",
-        "altitude_ft": 21575,
-        "speed_kmh": 880,
-        "heading": 96.77,
-        "updated_utc": "2026-08-16 00:44:16 UTC"
+        "callsign": "TVF77EV",
+        "country": "France",
+        "altitude_ft": 37025,
+        "speed_kmh": 875,
+        "heading": 116.13,
+        "updated_utc": "2026-08-16 02:10:40 UTC"
       }
     },
     {
@@ -42,17 +42,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6095,
-          63.9778
+          -6.2986,
+          59.2378
         ]
       },
       "properties": {
-        "callsign": "EZS71BM",
-        "country": "Switzerland",
-        "altitude_ft": null,
-        "speed_kmh": 46,
-        "heading": 180,
-        "updated_utc": "2026-08-16 00:44:16 UTC"
+        "callsign": "ICE524",
+        "country": "Iceland",
+        "altitude_ft": 36100,
+        "speed_kmh": 925,
+        "heading": 132.57,
+        "updated_utc": "2026-08-16 02:10:40 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9847,
+          60.4121
+        ]
+      },
+      "properties": {
+        "callsign": "ICE570",
+        "country": "Iceland",
+        "altitude_ft": 36975,
+        "speed_kmh": 890,
+        "heading": 131.12,
+        "updated_utc": "2026-08-16 02:10:40 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3237,
+          60.1304
+        ]
+      },
+      "properties": {
+        "callsign": "OCN2RD",
+        "country": "Germany",
+        "altitude_ft": 37000,
+        "speed_kmh": 872,
+        "heading": 131.82,
+        "updated_utc": "2026-08-16 02:10:40 UTC"
       }
     }
   ]
