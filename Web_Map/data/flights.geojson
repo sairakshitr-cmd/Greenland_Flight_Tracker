@@ -1,4 +1,113 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.9348,
+          61.9949
+        ]
+      },
+      "properties": {
+        "callsign": "DAL42",
+        "country": "United States",
+        "altitude_ft": 39000,
+        "speed_kmh": 940,
+        "heading": 106.72,
+        "updated_utc": "2026-08-17 03:59:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7661,
+          65.0237
+        ]
+      },
+      "properties": {
+        "callsign": "THY181",
+        "country": "Turkey",
+        "altitude_ft": 35975,
+        "speed_kmh": 815,
+        "heading": 273.91,
+        "updated_utc": "2026-08-17 03:59:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5991,
+          63.9912
+        ]
+      },
+      "properties": {
+        "callsign": "AZG5721",
+        "country": "United Kingdom",
+        "altitude_ft": null,
+        "speed_kmh": 21,
+        "heading": 135,
+        "updated_utc": "2026-08-17 03:59:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.9267,
+          63.1127
+        ]
+      },
+      "properties": {
+        "callsign": "LOT2098",
+        "country": "Poland",
+        "altitude_ft": 39000,
+        "speed_kmh": 991,
+        "heading": 90.75,
+        "updated_utc": "2026-08-17 03:59:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.2398,
+          61.5383
+        ]
+      },
+      "properties": {
+        "callsign": "UAL901",
+        "country": "United States",
+        "altitude_ft": 36975,
+        "speed_kmh": 929,
+        "heading": 106.09,
+        "updated_utc": "2026-08-17 03:59:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4163,
+          60.6085
+        ]
+      },
+      "properties": {
+        "callsign": "DHK3996",
+        "country": "United Kingdom",
+        "altitude_ft": 34000,
+        "speed_kmh": 692,
+        "heading": 325.25,
+        "updated_utc": "2026-08-17 03:59:51 UTC"
+      }
+    }
+  ]
 }
