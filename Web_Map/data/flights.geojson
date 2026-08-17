@@ -1,41 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.087,
-          60.5635
-        ]
-      },
-      "properties": {
-        "callsign": "BTI3KB",
-        "country": "Latvia",
-        "altitude_ft": 37000,
-        "speed_kmh": 968,
-        "heading": 100.47,
-        "updated_utc": "2026-08-17 02:08:11 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -19.1224,
-          63.2952
-        ]
-      },
-      "properties": {
-        "callsign": "TVF80QE",
-        "country": "France",
-        "altitude_ft": 33000,
-        "speed_kmh": 930,
-        "heading": 114.22,
-        "updated_utc": "2026-08-17 02:08:11 UTC"
-      }
-    }
-  ]
+  "features": []
 }
