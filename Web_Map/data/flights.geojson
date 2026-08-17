@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.8238,
-          63.996
+          -23.4065,
+          63.9928
         ]
       },
       "properties": {
-        "callsign": "N7185",
-        "country": "United States",
-        "altitude_ft": 5400,
-        "speed_kmh": 284,
-        "heading": 66.11,
-        "updated_utc": "2026-08-17 21:46:48 UTC"
+        "callsign": "THY29M",
+        "country": "Turkey",
+        "altitude_ft": 38000,
+        "speed_kmh": 901,
+        "heading": 273.06,
+        "updated_utc": "2026-08-17 22:14:12 UTC"
       }
     },
     {
@@ -24,17 +24,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.1089,
-          70.9375
+          -23.245,
+          62.2434
         ]
       },
       "properties": {
-        "callsign": "DAL21",
+        "callsign": "UPS214",
         "country": "United States",
-        "altitude_ft": 37000,
-        "speed_kmh": 935,
-        "heading": 261.34,
-        "updated_utc": "2026-08-17 21:46:48 UTC"
+        "altitude_ft": 32025,
+        "speed_kmh": 989,
+        "heading": 277.75,
+        "updated_utc": "2026-08-17 22:14:12 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7922,
+          58.9587
+        ]
+      },
+      "properties": {
+        "callsign": "DLH4UA",
+        "country": "Germany",
+        "altitude_ft": 33975,
+        "speed_kmh": 870,
+        "heading": 313.62,
+        "updated_utc": "2026-08-17 22:14:12 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.6559,
+          62.2528
+        ]
+      },
+      "properties": {
+        "callsign": "UPS238",
+        "country": "United States",
+        "altitude_ft": 32000,
+        "speed_kmh": 938,
+        "heading": 280.58,
+        "updated_utc": "2026-08-17 22:14:12 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6056,
+          64.0034
+        ]
+      },
+      "properties": {
+        "callsign": "NOS52EX",
+        "country": "Ireland",
+        "altitude_ft": 525,
+        "speed_kmh": 276,
+        "heading": 180.38,
+        "updated_utc": "2026-08-17 22:14:12 UTC"
       }
     }
   ]
