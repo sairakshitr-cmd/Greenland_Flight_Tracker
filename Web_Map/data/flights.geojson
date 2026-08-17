@@ -6,17 +6,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -59.9998,
-          71.6249
+          -18.5201,
+          63.5891
         ]
       },
       "properties": {
-        "callsign": "CPA831",
+        "callsign": "ICE275",
+        "country": "Iceland",
+        "altitude_ft": 31675,
+        "speed_kmh": 790,
+        "heading": 277.41,
+        "updated_utc": "2026-08-17 23:43:50 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.3163,
+          63.8843
+        ]
+      },
+      "properties": {
+        "callsign": "BTI2HU",
+        "country": "Latvia",
+        "altitude_ft": 36000,
+        "speed_kmh": 804,
+        "heading": 268.02,
+        "updated_utc": "2026-08-17 23:43:50 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.9994,
+          69.4509
+        ]
+      },
+      "properties": {
+        "callsign": "CPA805",
         "country": "China",
-        "altitude_ft": 33000,
-        "speed_kmh": 939,
-        "heading": 0.11,
-        "updated_utc": "2026-08-17 23:22:57 UTC"
+        "altitude_ft": 35000,
+        "speed_kmh": 956,
+        "heading": 0,
+        "updated_utc": "2026-08-17 23:43:50 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6053,
+          64.0104
+        ]
+      },
+      "properties": {
+        "callsign": "ICE345",
+        "country": "Iceland",
+        "altitude_ft": 650,
+        "speed_kmh": 263,
+        "heading": 180.4,
+        "updated_utc": "2026-08-17 23:43:50 UTC"
       }
     },
     {
@@ -25,52 +79,16 @@
         "type": "Point",
         "coordinates": [
           -22.6055,
-          64.0592
-        ]
-      },
-      "properties": {
-        "callsign": "ICE116",
-        "country": "Iceland",
-        "altitude_ft": 1600,
-        "speed_kmh": 304,
-        "heading": 179.3,
-        "updated_utc": "2026-08-17 23:22:57 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -18.7297,
-          64.5476
-        ]
-      },
-      "properties": {
-        "callsign": "ICE345",
-        "country": "Iceland",
-        "altitude_ft": 33925,
-        "speed_kmh": 775,
-        "heading": 258.29,
-        "updated_utc": "2026-08-17 23:22:57 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -19.0414,
-          63.9385
+          63.9778
         ]
       },
       "properties": {
         "callsign": "ICE217",
         "country": "Iceland",
-        "altitude_ft": 29875,
-        "speed_kmh": 811,
-        "heading": 280.13,
-        "updated_utc": "2026-08-17 23:22:57 UTC"
+        "altitude_ft": null,
+        "speed_kmh": 96,
+        "heading": 180,
+        "updated_utc": "2026-08-17 23:43:50 UTC"
       }
     },
     {
@@ -78,35 +96,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6047,
-          64.1285
-        ]
-      },
-      "properties": {
-        "callsign": "AUA973",
-        "country": "Austria",
-        "altitude_ft": 2100,
-        "speed_kmh": 311,
-        "heading": 181.02,
-        "updated_utc": "2026-08-17 23:22:57 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.2424,
-          63.933
+          -22.624,
+          63.9917
         ]
       },
       "properties": {
         "callsign": "DLH4UA",
         "country": "Germany",
-        "altitude_ft": 11250,
-        "speed_kmh": 695,
-        "heading": 294.38,
-        "updated_utc": "2026-08-17 23:22:57 UTC"
+        "altitude_ft": null,
+        "speed_kmh": 28,
+        "heading": 270,
+        "updated_utc": "2026-08-17 23:43:50 UTC"
       }
     }
   ]
