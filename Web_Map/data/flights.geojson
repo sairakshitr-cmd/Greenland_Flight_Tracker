@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.8177,
-          64.1143
+          -20.0696,
+          63.7153
         ]
       },
       "properties": {
-        "callsign": "ICE1006",
-        "country": "Iceland",
-        "altitude_ft": 11875,
-        "speed_kmh": 522,
-        "heading": 181.02,
-        "updated_utc": "2026-08-18 23:35:08 UTC"
+        "callsign": "LOT5MC",
+        "country": "Poland",
+        "altitude_ft": 21275,
+        "speed_kmh": 759,
+        "heading": 273.92,
+        "updated_utc": "2026-08-18 23:56:02 UTC"
       }
     },
     {
@@ -24,53 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -25.2299,
-          64.1191
-        ]
-      },
-      "properties": {
-        "callsign": "THY11",
-        "country": "Turkey",
-        "altitude_ft": 32000,
-        "speed_kmh": 932,
-        "heading": 269.89,
-        "updated_utc": "2026-08-18 23:35:08 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.6083,
-          63.9917
-        ]
-      },
-      "properties": {
-        "callsign": "IBS1925",
-        "country": "Spain",
-        "altitude_ft": null,
-        "speed_kmh": 32,
-        "heading": 270,
-        "updated_utc": "2026-08-18 23:35:08 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.3409,
-          62.8351
+          -16.4285,
+          63.0811
         ]
       },
       "properties": {
         "callsign": "N697TD",
         "country": "United States",
         "altitude_ft": 45000,
-        "speed_kmh": 985,
-        "heading": 80.15,
-        "updated_utc": "2026-08-18 23:35:08 UTC"
+        "speed_kmh": 995,
+        "heading": 88.72,
+        "updated_utc": "2026-08-18 23:56:02 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.3174,
+          63.023
+        ]
+      },
+      "properties": {
+        "callsign": "UNKNOWN",
+        "country": "Germany",
+        "altitude_ft": 34000,
+        "speed_kmh": 834,
+        "heading": 294.12,
+        "updated_utc": "2026-08-18 23:56:02 UTC"
       }
     }
   ]
