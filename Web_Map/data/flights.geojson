@@ -6,53 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.3987,
-          62.4941
-        ]
-      },
-      "properties": {
-        "callsign": "ELY027",
-        "country": "Israel",
-        "altitude_ft": 36000,
-        "speed_kmh": 936,
-        "heading": 267.96,
-        "updated_utc": "2026-08-18 03:57:52 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -17.5002,
-          63.0913
+          -27.2914,
+          63.0948
         ]
       },
       "properties": {
         "callsign": "THY4JD",
         "country": "Turkey",
-        "altitude_ft": 35975,
-        "speed_kmh": 895,
-        "heading": 267.75,
-        "updated_utc": "2026-08-18 03:57:52 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -20.3377,
-          63.0284
-        ]
-      },
-      "properties": {
-        "callsign": "THY182",
-        "country": "Turkey",
         "altitude_ft": 36000,
-        "speed_kmh": 908,
-        "heading": 274.09,
-        "updated_utc": "2026-08-18 03:57:52 UTC"
+        "speed_kmh": 951,
+        "heading": 267.99,
+        "updated_utc": "2026-08-18 04:32:57 UTC"
       }
     },
     {
@@ -60,89 +24,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -28.442,
-          62.5472
+          -25.3939,
+          61.6383
         ]
       },
       "properties": {
-        "callsign": "ACA43",
-        "country": "Canada",
+        "callsign": "GTI6081",
+        "country": "United States",
+        "altitude_ft": 32000,
+        "speed_kmh": 998,
+        "heading": 281.46,
+        "updated_utc": "2026-08-18 04:32:57 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6058,
+          62.3633
+        ]
+      },
+      "properties": {
+        "callsign": "AAL293",
+        "country": "United States",
+        "altitude_ft": 38300,
+        "speed_kmh": 946,
+        "heading": 277.65,
+        "updated_utc": "2026-08-18 04:32:57 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.6134,
+          62.1075
+        ]
+      },
+      "properties": {
+        "callsign": "MSR981",
+        "country": "Egypt",
         "altitude_ft": 36000,
-        "speed_kmh": 932,
-        "heading": 267.61,
-        "updated_utc": "2026-08-18 03:57:52 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.8026,
-          60.5665
-        ]
-      },
-      "properties": {
-        "callsign": "JAL41",
-        "country": "Japan",
-        "altitude_ft": 41000,
-        "speed_kmh": 937,
-        "heading": 165.11,
-        "updated_utc": "2026-08-18 03:57:52 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -25.4517,
-          61.5909
-        ]
-      },
-      "properties": {
-        "callsign": "UPS208",
-        "country": "United States",
-        "altitude_ft": 32025,
-        "speed_kmh": 982,
-        "heading": 269.68,
-        "updated_utc": "2026-08-18 03:57:52 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.9028,
-          59.9081
-        ]
-      },
-      "properties": {
-        "callsign": "UAL83",
-        "country": "United States",
-        "altitude_ft": 35975,
-        "speed_kmh": 908,
-        "heading": 275.85,
-        "updated_utc": "2026-08-18 03:57:52 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -19.1867,
-          62.0025
-        ]
-      },
-      "properties": {
-        "callsign": "N302AG",
-        "country": "United States",
-        "altitude_ft": 41000,
-        "speed_kmh": 995,
-        "heading": 142.49,
-        "updated_utc": "2026-08-18 03:57:52 UTC"
+        "speed_kmh": 958,
+        "heading": 269.56,
+        "updated_utc": "2026-08-18 04:32:57 UTC"
       }
     }
   ]
