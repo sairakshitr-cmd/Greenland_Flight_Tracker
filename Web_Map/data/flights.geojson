@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.781,
-          64.7608
+          -20.2302,
+          63.5123
         ]
       },
       "properties": {
-        "callsign": "TFBMW",
+        "callsign": "GCK29",
+        "country": "Austria",
+        "altitude_ft": 22225,
+        "speed_kmh": 754,
+        "heading": 321.58,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0431,
+          62.8407
+        ]
+      },
+      "properties": {
+        "callsign": "ICE418",
         "country": "Iceland",
-        "altitude_ft": 3800,
-        "speed_kmh": 221,
-        "heading": 327.64,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "altitude_ft": 30000,
+        "speed_kmh": 884,
+        "heading": 123.29,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -24,17 +42,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.7177,
-          63.8968
+          -22.6055,
+          63.977
         ]
       },
       "properties": {
-        "callsign": "ENT512",
-        "country": "Poland",
-        "altitude_ft": 3175,
-        "speed_kmh": 485,
-        "heading": 271.97,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "callsign": "WZZ1377",
+        "country": "Hungary",
+        "altitude_ft": 200,
+        "speed_kmh": 280,
+        "heading": 180,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -42,17 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.7215,
-          65.6049
+          -8.0255,
+          60.0176
         ]
       },
       "properties": {
-        "callsign": "THY8JK",
-        "country": "Turkey",
+        "callsign": "AKJ9541",
+        "country": "India",
         "altitude_ft": 39000,
-        "speed_kmh": 920,
-        "heading": 101.38,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "speed_kmh": 905,
+        "heading": 152.6,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -60,17 +78,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.4853,
-          59.8675
+          -27.5353,
+          62.7217
         ]
       },
       "properties": {
-        "callsign": "DAL161",
+        "callsign": "AAL135",
         "country": "United States",
-        "altitude_ft": 36000,
-        "speed_kmh": 903,
-        "heading": 297.35,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "altitude_ft": 35000,
+        "speed_kmh": 934,
+        "heading": 285.52,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -78,17 +96,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -18.3216,
-          63.8804
+          -23.1335,
+          63.1011
+        ]
+      },
+      "properties": {
+        "callsign": "THY69W",
+        "country": "Turkey",
+        "altitude_ft": 35975,
+        "speed_kmh": 880,
+        "heading": 271.57,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6203,
+          63.9946
         ]
       },
       "properties": {
         "callsign": "SAS4787",
         "country": "Sweden",
-        "altitude_ft": 37975,
-        "speed_kmh": 814,
-        "heading": 275.09,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "altitude_ft": null,
+        "speed_kmh": 12,
+        "heading": 331.88,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -96,17 +132,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -26.3808,
-          63.0816
+          -22.6123,
+          63.9932
+        ]
+      },
+      "properties": {
+        "callsign": "UAL139",
+        "country": "United States",
+        "altitude_ft": null,
+        "speed_kmh": null,
+        "heading": 90,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.5352,
+          66.0371
+        ]
+      },
+      "properties": {
+        "callsign": "UNKNOWN",
+        "country": "Sweden",
+        "altitude_ft": 39000,
+        "speed_kmh": 879,
+        "heading": 108.17,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.2307,
+          62.8012
+        ]
+      },
+      "properties": {
+        "callsign": "AFR020",
+        "country": "France",
+        "altitude_ft": 33000,
+        "speed_kmh": 865,
+        "heading": 302.23,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.21,
+          62.7125
         ]
       },
       "properties": {
         "callsign": "UAL926",
         "country": "United States",
-        "altitude_ft": 36975,
-        "speed_kmh": 887,
-        "heading": 88.68,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "altitude_ft": 39000,
+        "speed_kmh": 927,
+        "heading": 110.1,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -114,35 +204,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -19.6627,
-          63.0124
+          -26.8615,
+          62.7696
         ]
       },
       "properties": {
-        "callsign": "THY3",
-        "country": "Turkey",
-        "altitude_ft": 34000,
-        "speed_kmh": 860,
-        "heading": 278.04,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -24.8577,
-          63.8807
-        ]
-      },
-      "properties": {
-        "callsign": "ACA913",
+        "callsign": "ACA937",
         "country": "Canada",
-        "altitude_ft": 21450,
-        "speed_kmh": 780,
-        "heading": 263.04,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "altitude_ft": 36000,
+        "speed_kmh": 857,
+        "heading": 280.46,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -150,53 +222,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.2144,
-          60.467
+          -22.2924,
+          63.8987
         ]
       },
       "properties": {
-        "callsign": "EJU98JM",
-        "country": "Austria",
-        "altitude_ft": 34000,
-        "speed_kmh": 869,
-        "heading": 325.16,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8579,
-          60.1426
-        ]
-      },
-      "properties": {
-        "callsign": "EJU59HC",
-        "country": "Austria",
-        "altitude_ft": 35000,
-        "speed_kmh": 852,
-        "heading": 149.14,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.0761,
-          64.4573
-        ]
-      },
-      "properties": {
-        "callsign": "ICE61G",
+        "callsign": "TFHRN",
         "country": "Iceland",
-        "altitude_ft": 14400,
-        "speed_kmh": 583,
-        "heading": 251.1,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "altitude_ft": null,
+        "speed_kmh": 213,
+        "heading": 311.47,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -204,17 +240,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.9455,
-          66.3791
+          -22.2575,
+          64.3581
         ]
       },
       "properties": {
-        "callsign": "PSMNP",
-        "country": "Brazil",
+        "callsign": "FNA570",
+        "country": "Iceland",
+        "altitude_ft": 13225,
+        "speed_kmh": 303,
+        "heading": 333.9,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9316,
+          64.1322
+        ]
+      },
+      "properties": {
+        "callsign": "N426TD",
+        "country": "United States",
         "altitude_ft": null,
         "speed_kmh": null,
-        "heading": 149.06,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "heading": 261.56,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -222,17 +276,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.9041,
-          64.1875
+          -8.3674,
+          59.8004
         ]
       },
       "properties": {
-        "callsign": "ICE694",
-        "country": "Iceland",
-        "altitude_ft": 7325,
-        "speed_kmh": 427,
-        "heading": 96.23,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "callsign": "NJE699N",
+        "country": "Portugal",
+        "altitude_ft": 38000,
+        "speed_kmh": 847,
+        "heading": 327.77,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -240,17 +294,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6094,
-          63.9889
+          -5.0529,
+          61.0229
         ]
       },
       "properties": {
-        "callsign": "ICE12E",
-        "country": "Iceland",
-        "altitude_ft": null,
-        "speed_kmh": 39,
-        "heading": 0,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "callsign": "KLM639",
+        "country": "Kingdom of the Netherlands",
+        "altitude_ft": 37975,
+        "speed_kmh": 893,
+        "heading": 312.06,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -258,35 +312,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6678,
-          65.3629
+          -22.7276,
+          63.897
         ]
       },
       "properties": {
-        "callsign": "ICE17Y",
-        "country": "Iceland",
-        "altitude_ft": 17200,
-        "speed_kmh": 463,
-        "heading": 162.8,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.5286,
-          62.1707
-        ]
-      },
-      "properties": {
-        "callsign": "UAL958",
+        "callsign": "DAL261",
         "country": "United States",
-        "altitude_ft": 34025,
-        "speed_kmh": 878,
-        "heading": 285.8,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "altitude_ft": 4275,
+        "speed_kmh": 452,
+        "heading": 301.61,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -294,53 +330,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.342,
-          62.3346
+          -17.9937,
+          63.1872
         ]
       },
       "properties": {
-        "callsign": "ACA807",
-        "country": "Canada",
-        "altitude_ft": 36000,
-        "speed_kmh": 909,
-        "heading": 284.52,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.5995,
-          63.9307
-        ]
-      },
-      "properties": {
-        "callsign": "BAW800",
-        "country": "United Kingdom",
-        "altitude_ft": 8075,
-        "speed_kmh": 568,
-        "heading": 303.02,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.1161,
-          63.7859
-        ]
-      },
-      "properties": {
-        "callsign": "EZS71BM",
+        "callsign": "EDW31M",
         "country": "Switzerland",
-        "altitude_ft": 22750,
-        "speed_kmh": 692,
-        "heading": 103.63,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "altitude_ft": 33625,
+        "speed_kmh": 865,
+        "heading": 116.73,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     },
     {
@@ -348,107 +348,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.5961,
-          58.3136
+          -25.4879,
+          62.8086
         ]
       },
       "properties": {
-        "callsign": "AAL705",
-        "country": "United States",
-        "altitude_ft": 35000,
-        "speed_kmh": 837,
-        "heading": 292.93,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -24.0607,
-          61.5368
-        ]
-      },
-      "properties": {
-        "callsign": "DAL35",
-        "country": "United States",
-        "altitude_ft": 33000,
-        "speed_kmh": 899,
-        "heading": 282.86,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.2433,
-          58.2367
-        ]
-      },
-      "properties": {
-        "callsign": "DAL23",
-        "country": "United States",
-        "altitude_ft": 36000,
-        "speed_kmh": 811,
-        "heading": 292.99,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.108,
-          62.613
-        ]
-      },
-      "properties": {
-        "callsign": "DAL219",
+        "callsign": "UAL984",
         "country": "United States",
         "altitude_ft": 34000,
-        "speed_kmh": 840,
-        "heading": 272.28,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -25.5121,
-          64.3922
-        ]
-      },
-      "properties": {
-        "callsign": "WJA61",
-        "country": "Canada",
-        "altitude_ft": 25425,
-        "speed_kmh": 784,
-        "heading": 289.59,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.6202,
-          63.9946
-        ]
-      },
-      "properties": {
-        "callsign": "UNKNOWN",
-        "country": "Switzerland",
-        "altitude_ft": null,
-        "speed_kmh": 6,
-        "heading": 326.25,
-        "updated_utc": "2026-08-18 09:46:37 UTC"
+        "speed_kmh": 893,
+        "heading": 302.47,
+        "updated_utc": "2026-08-18 10:18:18 UTC"
       }
     }
   ]
