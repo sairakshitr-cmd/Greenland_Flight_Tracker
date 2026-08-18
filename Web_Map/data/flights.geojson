@@ -6,53 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6053,
-          63.9442
-        ]
-      },
-      "properties": {
-        "callsign": "N454HP",
-        "country": "United States",
-        "altitude_ft": 550,
-        "speed_kmh": 232,
-        "heading": 0,
-        "updated_utc": "2026-08-18 21:23:03 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.6058,
-          63.8928
-        ]
-      },
-      "properties": {
-        "callsign": "ICE102",
-        "country": "Iceland",
-        "altitude_ft": 1575,
-        "speed_kmh": 228,
-        "heading": 358.6,
-        "updated_utc": "2026-08-18 21:23:03 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.6344,
-          71.0671
+          -73.3366,
+          70.7377
         ]
       },
       "properties": {
         "callsign": "BAW5VY",
         "country": "United Kingdom",
         "altitude_ft": 38000,
-        "speed_kmh": 941,
-        "heading": 270.34,
-        "updated_utc": "2026-08-18 21:23:03 UTC"
+        "speed_kmh": 953,
+        "heading": 254.91,
+        "updated_utc": "2026-08-18 21:44:30 UTC"
       }
     },
     {
@@ -60,17 +24,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.2718,
-          63.4075
+          -22.7346,
+          63.7832
         ]
       },
       "properties": {
-        "callsign": "DHK3999",
-        "country": "United Kingdom",
-        "altitude_ft": 24975,
-        "speed_kmh": 770,
-        "heading": 111.88,
-        "updated_utc": "2026-08-18 21:23:03 UTC"
+        "callsign": "HZA33",
+        "country": "Saudi Arabia",
+        "altitude_ft": 3025,
+        "speed_kmh": 340,
+        "heading": 70.28,
+        "updated_utc": "2026-08-18 21:44:30 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.125,
+          70.8561
+        ]
+      },
+      "properties": {
+        "callsign": "DAL21",
+        "country": "United States",
+        "altitude_ft": 38000,
+        "speed_kmh": 905,
+        "heading": 256.99,
+        "updated_utc": "2026-08-18 21:44:30 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.419,
+          59.6993
+        ]
+      },
+      "properties": {
+        "callsign": "FLI416",
+        "country": "Denmark",
+        "altitude_ft": 39000,
+        "speed_kmh": 876,
+        "heading": 166.93,
+        "updated_utc": "2026-08-18 21:44:30 UTC"
       }
     }
   ]
