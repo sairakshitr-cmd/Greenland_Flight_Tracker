@@ -6,17 +6,107 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.4594,
-          70.3654
+          -21.8157,
+          63.0923
         ]
       },
       "properties": {
-        "callsign": "DAL21",
-        "country": "United States",
-        "altitude_ft": 38775,
-        "speed_kmh": 892,
-        "heading": 251.98,
-        "updated_utc": "2026-08-18 21:58:30 UTC"
+        "callsign": "ICE581",
+        "country": "Iceland",
+        "altitude_ft": 17475,
+        "speed_kmh": 635,
+        "heading": 336.27,
+        "updated_utc": "2026-08-18 22:22:22 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5358,
+          67.8815
+        ]
+      },
+      "properties": {
+        "callsign": "ICE11P",
+        "country": "Iceland",
+        "altitude_ft": 36000,
+        "speed_kmh": 832,
+        "heading": 262.84,
+        "updated_utc": "2026-08-18 22:22:22 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6482,
+          59.1032
+        ]
+      },
+      "properties": {
+        "callsign": "DHK3999",
+        "country": "United Kingdom",
+        "altitude_ft": 35000,
+        "speed_kmh": 880,
+        "heading": 150.09,
+        "updated_utc": "2026-08-18 22:22:22 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5159,
+          70.4869
+        ]
+      },
+      "properties": {
+        "callsign": "AKT814",
+        "country": "Canada",
+        "altitude_ft": null,
+        "speed_kmh": 87,
+        "heading": 14.06,
+        "updated_utc": "2026-08-18 22:22:22 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9737,
+          59.4283
+        ]
+      },
+      "properties": {
+        "callsign": "IBS1925",
+        "country": "Spain",
+        "altitude_ft": 34000,
+        "speed_kmh": 868,
+        "heading": 349.67,
+        "updated_utc": "2026-08-18 22:22:22 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0423,
+          69.999
+        ]
+      },
+      "properties": {
+        "callsign": "AFR028",
+        "country": "France",
+        "altitude_ft": 38000,
+        "speed_kmh": 922,
+        "heading": 265.39,
+        "updated_utc": "2026-08-18 22:22:22 UTC"
       }
     }
   ]
