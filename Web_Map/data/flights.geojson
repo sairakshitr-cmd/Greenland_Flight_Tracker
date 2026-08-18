@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -24.495,
-          63.8324
+          -21.462,
+          62.062
         ]
       },
       "properties": {
-        "callsign": "ICE670",
+        "callsign": "RJA265",
+        "country": "Jordan",
+        "altitude_ft": 36000,
+        "speed_kmh": 942,
+        "heading": 273.27,
+        "updated_utc": "2026-08-18 05:42:48 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.2693,
+          63.6224
+        ]
+      },
+      "properties": {
+        "callsign": "ICE830",
         "country": "Iceland",
         "altitude_ft": 17850,
-        "speed_kmh": 578,
-        "heading": 94.41,
-        "updated_utc": "2026-08-18 05:06:15 UTC"
+        "speed_kmh": 596,
+        "heading": 76.7,
+        "updated_utc": "2026-08-18 05:42:48 UTC"
       }
     },
     {
@@ -24,17 +42,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -24.6048,
-          62.589
+          -25.9432,
+          63.4249
         ]
       },
       "properties": {
-        "callsign": "UAE9917",
-        "country": "United Arab Emirates",
-        "altitude_ft": 32000,
-        "speed_kmh": 957,
-        "heading": 270.33,
-        "updated_utc": "2026-08-18 05:06:15 UTC"
+        "callsign": "ICE622",
+        "country": "Iceland",
+        "altitude_ft": 32500,
+        "speed_kmh": 802,
+        "heading": 74.74,
+        "updated_utc": "2026-08-18 05:42:48 UTC"
       }
     },
     {
@@ -42,35 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.4203,
-          63.0598
+          -7.7144,
+          58.738
         ]
       },
       "properties": {
-        "callsign": "RJA267",
-        "country": "Jordan",
-        "altitude_ft": 40000,
-        "speed_kmh": 920,
-        "heading": 273.23,
-        "updated_utc": "2026-08-18 05:06:15 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -26.3874,
-          61.4539
-        ]
-      },
-      "properties": {
-        "callsign": "LOT5T",
+        "callsign": "LOT5AH",
         "country": "Poland",
-        "altitude_ft": 40975,
-        "speed_kmh": 933,
-        "heading": 77.04,
-        "updated_utc": "2026-08-18 05:06:15 UTC"
+        "altitude_ft": 40000,
+        "speed_kmh": 985,
+        "heading": 103.49,
+        "updated_utc": "2026-08-18 05:42:48 UTC"
       }
     }
   ]
