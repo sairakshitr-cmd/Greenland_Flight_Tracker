@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.1277,
-          63.8426
+          -22.3284,
+          63.8912
         ]
       },
       "properties": {
-        "callsign": "ICE275",
-        "country": "Iceland",
-        "altitude_ft": 4400,
-        "speed_kmh": 481,
-        "heading": 279.97,
-        "updated_utc": "2026-08-17 23:58:31 UTC"
+        "callsign": "BTI3KB",
+        "country": "Latvia",
+        "altitude_ft": 5575,
+        "speed_kmh": 460,
+        "heading": 111.5,
+        "updated_utc": "2026-08-18 01:11:34 UTC"
       }
     },
     {
@@ -24,17 +24,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.8494,
-          63.7893
+          -20.4207,
+          62.7358
         ]
       },
       "properties": {
-        "callsign": "BTI2HU",
-        "country": "Latvia",
-        "altitude_ft": 8825,
-        "speed_kmh": 545,
-        "heading": 264.93,
-        "updated_utc": "2026-08-17 23:58:31 UTC"
+        "callsign": "ICE48P",
+        "country": "Iceland",
+        "altitude_ft": 31500,
+        "speed_kmh": 817,
+        "heading": 141.44,
+        "updated_utc": "2026-08-18 01:11:34 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4169,
+          63.6136
+        ]
+      },
+      "properties": {
+        "callsign": "ICE534",
+        "country": "Iceland",
+        "altitude_ft": 37025,
+        "speed_kmh": 854,
+        "heading": 100.24,
+        "updated_utc": "2026-08-18 01:11:34 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.3129,
+          63.1275
+        ]
+      },
+      "properties": {
+        "callsign": "DLH847",
+        "country": "Germany",
+        "altitude_ft": 33275,
+        "speed_kmh": 835,
+        "heading": 114.92,
+        "updated_utc": "2026-08-18 01:11:34 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.7918,
+          61.2785
+        ]
+      },
+      "properties": {
+        "callsign": "N680BB",
+        "country": "United States",
+        "altitude_ft": 41000,
+        "speed_kmh": 1007,
+        "heading": 111.7,
+        "updated_utc": "2026-08-18 01:11:34 UTC"
       }
     }
   ]
