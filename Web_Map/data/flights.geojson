@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -60.0323,
-          69.0228
+          -7.6554,
+          59.1089
         ]
       },
       "properties": {
-        "callsign": "ICE11P",
+        "callsign": "VLG6013",
+        "country": "Spain",
+        "altitude_ft": 35000,
+        "speed_kmh": 839,
+        "heading": 150.21,
+        "updated_utc": "2026-08-19 22:42:34 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.6933,
+          62.8748
+        ]
+      },
+      "properties": {
+        "callsign": "UNKNOWN",
         "country": "Iceland",
         "altitude_ft": 36000,
-        "speed_kmh": 812,
-        "heading": 267.12,
-        "updated_utc": "2026-08-19 22:14:43 UTC"
+        "speed_kmh": 819,
+        "heading": 299.99,
+        "updated_utc": "2026-08-19 22:42:34 UTC"
       }
     },
     {
@@ -24,17 +42,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.3717,
-          60.5383
+          -7.6433,
+          59.8482
         ]
       },
       "properties": {
-        "callsign": "DLH4UA",
-        "country": "Germany",
-        "altitude_ft": 34025,
-        "speed_kmh": 800,
-        "heading": 312.37,
-        "updated_utc": "2026-08-19 22:14:43 UTC"
+        "callsign": "TRA83G",
+        "country": "Kingdom of the Netherlands",
+        "altitude_ft": 35025,
+        "speed_kmh": 848,
+        "heading": 131.46,
+        "updated_utc": "2026-08-19 22:42:34 UTC"
       }
     },
     {
@@ -42,35 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.9052,
-          67.5114
+          -9.3801,
+          60.5264
         ]
       },
       "properties": {
-        "callsign": "UAL927",
-        "country": "United States",
-        "altitude_ft": 37975,
-        "speed_kmh": 890,
-        "heading": 254.05,
-        "updated_utc": "2026-08-19 22:14:43 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.5894,
-          68.6955
-        ]
-      },
-      "properties": {
-        "callsign": "FBU80G",
-        "country": "France",
-        "altitude_ft": 39000,
-        "speed_kmh": 900,
-        "heading": 253.13,
-        "updated_utc": "2026-08-19 22:14:43 UTC"
+        "callsign": "IBS1925",
+        "country": "Spain",
+        "altitude_ft": 33000,
+        "speed_kmh": 794,
+        "heading": 348.3,
+        "updated_utc": "2026-08-19 22:42:34 UTC"
       }
     }
   ]
