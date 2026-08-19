@@ -1,41 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.2727,
-          59.5468
-        ]
-      },
-      "properties": {
-        "callsign": "JAL41",
-        "country": "Japan",
-        "altitude_ft": 40975,
-        "speed_kmh": 939,
-        "heading": 165.61,
-        "updated_utc": "2026-08-19 03:56:26 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -24.7649,
-          63.575
-        ]
-      },
-      "properties": {
-        "callsign": "DAL142",
-        "country": "United States",
-        "altitude_ft": 39000,
-        "speed_kmh": 905,
-        "heading": 114.15,
-        "updated_utc": "2026-08-19 03:56:26 UTC"
-      }
-    }
-  ]
+  "features": []
 }
