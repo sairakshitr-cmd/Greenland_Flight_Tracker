@@ -1,4 +1,185 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6056,
+          63.9147
+        ]
+      },
+      "properties": {
+        "callsign": "ICE670",
+        "country": "Iceland",
+        "altitude_ft": 1100,
+        "speed_kmh": 265,
+        "heading": 0,
+        "updated_utc": "2026-08-19 05:43:52 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6234,
+          58.0519
+        ]
+      },
+      "properties": {
+        "callsign": "THY6033",
+        "country": "Turkey",
+        "altitude_ft": 32000,
+        "speed_kmh": 881,
+        "heading": 312.61,
+        "updated_utc": "2026-08-19 05:43:52 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.5401,
+          62.9189
+        ]
+      },
+      "properties": {
+        "callsign": "RJA267",
+        "country": "Jordan",
+        "altitude_ft": 38000,
+        "speed_kmh": 919,
+        "heading": 279.04,
+        "updated_utc": "2026-08-19 05:43:52 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.5476,
+          65.284
+        ]
+      },
+      "properties": {
+        "callsign": "ICE680",
+        "country": "Iceland",
+        "altitude_ft": 37000,
+        "speed_kmh": 844,
+        "heading": 118.87,
+        "updated_utc": "2026-08-19 05:43:52 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.9968,
+          63.751
+        ]
+      },
+      "properties": {
+        "callsign": "ICE622",
+        "country": "Iceland",
+        "altitude_ft": 5250,
+        "speed_kmh": 492,
+        "heading": 77.17,
+        "updated_utc": "2026-08-19 05:43:52 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.7409,
+          63.5455
+        ]
+      },
+      "properties": {
+        "callsign": "ICE614",
+        "country": "Iceland",
+        "altitude_ft": 21825,
+        "speed_kmh": 711,
+        "heading": 74.44,
+        "updated_utc": "2026-08-19 05:43:52 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.4749,
+          64.8555
+        ]
+      },
+      "properties": {
+        "callsign": "ICE664",
+        "country": "Iceland",
+        "altitude_ft": 35000,
+        "speed_kmh": 879,
+        "heading": 122.35,
+        "updated_utc": "2026-08-19 05:43:52 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.4955,
+          63.7083
+        ]
+      },
+      "properties": {
+        "callsign": "ICE38C",
+        "country": "Iceland",
+        "altitude_ft": 8975,
+        "speed_kmh": 537,
+        "heading": 78.26,
+        "updated_utc": "2026-08-19 05:43:52 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6063,
+          63.8394
+        ]
+      },
+      "properties": {
+        "callsign": "ICE50G",
+        "country": "Iceland",
+        "altitude_ft": 2575,
+        "speed_kmh": 350,
+        "heading": 2.73,
+        "updated_utc": "2026-08-19 05:43:52 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.2861,
+          71.9137
+        ]
+      },
+      "properties": {
+        "callsign": "CFG455",
+        "country": "Germany",
+        "altitude_ft": 39000,
+        "speed_kmh": 906,
+        "heading": 84.49,
+        "updated_utc": "2026-08-19 05:43:52 UTC"
+      }
+    }
+  ]
 }
