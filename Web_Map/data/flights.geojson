@@ -1,41 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -17.2228,
-          63.1555
-        ]
-      },
-      "properties": {
-        "callsign": "ICE721",
-        "country": "Iceland",
-        "altitude_ft": 34000,
-        "speed_kmh": 835,
-        "heading": 287.03,
-        "updated_utc": "2026-08-19 02:12:43 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.6054,
-          63.95
-        ]
-      },
-      "properties": {
-        "callsign": "ICE587",
-        "country": "Iceland",
-        "altitude_ft": 375,
-        "speed_kmh": 282,
-        "heading": 0,
-        "updated_utc": "2026-08-19 02:12:43 UTC"
-      }
-    }
-  ]
+  "features": []
 }
