@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -16.9289,
-          63.5165
+          -65.9572,
+          67.5058
         ]
       },
       "properties": {
-        "callsign": "AUA97B",
-        "country": "Austria",
-        "altitude_ft": 36650,
-        "speed_kmh": 858,
-        "heading": 98.57,
-        "updated_utc": "2026-08-21 00:44:16 UTC"
+        "callsign": "THY12E",
+        "country": "Turkey",
+        "altitude_ft": 35000,
+        "speed_kmh": 927,
+        "heading": 73.88,
+        "updated_utc": "2026-08-21 02:12:33 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9003,
+          64.5383
+        ]
+      },
+      "properties": {
+        "callsign": "FNA78X",
+        "country": "Iceland",
+        "altitude_ft": 17000,
+        "speed_kmh": 500,
+        "heading": 53.13,
+        "updated_utc": "2026-08-21 02:12:33 UTC"
       }
     }
   ]
