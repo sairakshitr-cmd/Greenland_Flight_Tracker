@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.6923,
-          58.5675
+          -22.6054,
+          64.0399
         ]
       },
       "properties": {
-        "callsign": "RJA267",
-        "country": "Jordan",
-        "altitude_ft": 38000,
-        "speed_kmh": 911,
-        "heading": 285.56,
-        "updated_utc": "2026-08-21 04:51:37 UTC"
+        "callsign": "ICE630",
+        "country": "Iceland",
+        "altitude_ft": 1100,
+        "speed_kmh": 272,
+        "heading": 180,
+        "updated_utc": "2026-08-21 05:23:39 UTC"
       }
     },
     {
@@ -24,17 +24,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.0622,
-          62.2188
+          -22.9769,
+          64.6983
         ]
       },
       "properties": {
-        "callsign": "UNKNOWN",
-        "country": "United States",
-        "altitude_ft": 37000,
-        "speed_kmh": 943,
-        "heading": 115.11,
-        "updated_utc": "2026-08-21 04:51:37 UTC"
+        "callsign": "KLM676",
+        "country": "Kingdom of the Netherlands",
+        "altitude_ft": 39000,
+        "speed_kmh": 951,
+        "heading": 117.11,
+        "updated_utc": "2026-08-21 05:23:39 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.9334,
+          64.4491
+        ]
+      },
+      "properties": {
+        "callsign": "ICE680",
+        "country": "Iceland",
+        "altitude_ft": 13025,
+        "speed_kmh": 682,
+        "heading": 119.28,
+        "updated_utc": "2026-08-21 05:23:39 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.3743,
+          65.568
+        ]
+      },
+      "properties": {
+        "callsign": "ICE50G",
+        "country": "Iceland",
+        "altitude_ft": 35000,
+        "speed_kmh": 997,
+        "heading": 118.04,
+        "updated_utc": "2026-08-21 05:23:39 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5902,
+          63.982
+        ]
+      },
+      "properties": {
+        "callsign": "VQBMS",
+        "country": "United Kingdom",
+        "altitude_ft": null,
+        "speed_kmh": 21,
+        "heading": 337.5,
+        "updated_utc": "2026-08-21 05:23:39 UTC"
       }
     }
   ]
