@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -25.8556,
-          64.6766
+          -21.5982,
+          62.4692
         ]
       },
       "properties": {
-        "callsign": "THY29M",
-        "country": "Turkey",
-        "altitude_ft": 38000,
-        "speed_kmh": 828,
-        "heading": 282.92,
-        "updated_utc": "2026-08-21 22:13:39 UTC"
+        "callsign": "UAE9936",
+        "country": "United Arab Emirates",
+        "altitude_ft": 35000,
+        "speed_kmh": 953,
+        "heading": 86.88,
+        "updated_utc": "2026-08-21 22:41:36 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.5933,
+          64.1625
+        ]
+      },
+      "properties": {
+        "callsign": "JIV9",
+        "country": "Sweden",
+        "altitude_ft": 39100,
+        "speed_kmh": 698,
+        "heading": 279.16,
+        "updated_utc": "2026-08-21 22:41:36 UTC"
       }
     }
   ]
