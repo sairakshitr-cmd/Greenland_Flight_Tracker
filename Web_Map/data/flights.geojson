@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.9771,
-          63.8795
+          -17.0994,
+          63.5378
         ]
       },
       "properties": {
         "callsign": "GRL4774",
         "country": "Denmark",
-        "altitude_ft": 9825,
-        "speed_kmh": 657,
-        "heading": 103.37,
-        "updated_utc": "2026-08-22 20:58:06 UTC"
+        "altitude_ft": 36075,
+        "speed_kmh": 948,
+        "heading": 100.01,
+        "updated_utc": "2026-08-22 21:19:44 UTC"
       }
     },
     {
@@ -24,17 +24,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -18.0475,
-          63.1989
+          -21.3703,
+          63.8153
         ]
       },
       "properties": {
-        "callsign": "WZZ636Z",
-        "country": "Malta",
-        "altitude_ft": 31125,
-        "speed_kmh": 885,
-        "heading": 116.62,
-        "updated_utc": "2026-08-22 20:58:06 UTC"
+        "callsign": "VLG6013",
+        "country": "Spain",
+        "altitude_ft": 16050,
+        "speed_kmh": 680,
+        "heading": 103.54,
+        "updated_utc": "2026-08-22 21:19:44 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7098,
+          64.7434
+        ]
+      },
+      "properties": {
+        "callsign": "ICG31",
+        "country": "Iceland",
+        "altitude_ft": 9000,
+        "speed_kmh": 188,
+        "heading": 229.4,
+        "updated_utc": "2026-08-22 21:19:44 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9056,
+          63.7644
+        ]
+      },
+      "properties": {
+        "callsign": "EJU98NA",
+        "country": "Austria",
+        "altitude_ft": 19900,
+        "speed_kmh": 762,
+        "heading": 104.07,
+        "updated_utc": "2026-08-22 21:19:44 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8419,
+          69.0301
+        ]
+      },
+      "properties": {
+        "callsign": "DAL21",
+        "country": "United States",
+        "altitude_ft": 38000,
+        "speed_kmh": 854,
+        "heading": 266.39,
+        "updated_utc": "2026-08-22 21:19:44 UTC"
       }
     }
   ]
