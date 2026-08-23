@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -60.76,
-          70.0038
+          -6.2974,
+          60.1349
         ]
       },
       "properties": {
-        "callsign": "BAW5VY",
-        "country": "United Kingdom",
-        "altitude_ft": 38000,
-        "speed_kmh": 887,
-        "heading": 266.65,
-        "updated_utc": "2026-08-23 21:17:33 UTC"
+        "callsign": "WZZ89ZP",
+        "country": "Hungary",
+        "altitude_ft": 35000,
+        "speed_kmh": 851,
+        "heading": 116.34,
+        "updated_utc": "2026-08-23 21:42:23 UTC"
       }
     },
     {
@@ -24,17 +24,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.4708,
-          59.0974
+          -69.8139,
+          69.5158
         ]
       },
       "properties": {
-        "callsign": "WMT9SK",
+        "callsign": "BAW5VY",
+        "country": "United Kingdom",
+        "altitude_ft": 38000,
+        "speed_kmh": 897,
+        "heading": 257,
+        "updated_utc": "2026-08-23 21:42:23 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1595,
+          58.5289
+        ]
+      },
+      "properties": {
+        "callsign": "DLH4UA",
+        "country": "Germany",
+        "altitude_ft": 36000,
+        "speed_kmh": 809,
+        "heading": 315.74,
+        "updated_utc": "2026-08-23 21:42:23 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7583,
+          60.4874
+        ]
+      },
+      "properties": {
+        "callsign": "WZZ6174",
         "country": "Malta",
-        "altitude_ft": 35000,
-        "speed_kmh": 846,
-        "heading": 135.89,
-        "updated_utc": "2026-08-23 21:17:33 UTC"
+        "altitude_ft": 33975,
+        "speed_kmh": 790,
+        "heading": 295.12,
+        "updated_utc": "2026-08-23 21:42:23 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.408,
+          58.2629
+        ]
+      },
+      "properties": {
+        "callsign": "EDW326",
+        "country": "Switzerland",
+        "altitude_ft": 36025,
+        "speed_kmh": 827,
+        "heading": 328.09,
+        "updated_utc": "2026-08-23 21:42:23 UTC"
       }
     }
   ]
