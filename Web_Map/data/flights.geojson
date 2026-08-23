@@ -6,35 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6055,
-          63.9428
-        ]
-      },
-      "properties": {
-        "callsign": "ICE455",
-        "country": "Iceland",
-        "altitude_ft": 750,
-        "speed_kmh": 254,
-        "heading": 0,
-        "updated_utc": "2026-08-23 23:21:37 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -19.6138,
-          63.6762
+          -22.6054,
+          63.9467
         ]
       },
       "properties": {
         "callsign": "ICE387",
         "country": "Iceland",
-        "altitude_ft": 28750,
-        "speed_kmh": 687,
-        "heading": 275.57,
-        "updated_utc": "2026-08-23 23:21:37 UTC"
+        "altitude_ft": 625,
+        "speed_kmh": 278,
+        "heading": 0.76,
+        "updated_utc": "2026-08-23 23:42:05 UTC"
       }
     },
     {
@@ -42,17 +24,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.5477,
-          70.578
+          -19.8577,
+          63.5923
+        ]
+      },
+      "properties": {
+        "callsign": "ENT542P",
+        "country": "Poland",
+        "altitude_ft": 33775,
+        "speed_kmh": 825,
+        "heading": 114.95,
+        "updated_utc": "2026-08-23 23:42:05 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5797,
+          70.3108
         ]
       },
       "properties": {
         "callsign": "KUK848",
         "country": "Canada",
-        "altitude_ft": 2925,
-        "speed_kmh": 351,
-        "heading": 18.15,
-        "updated_utc": "2026-08-23 23:21:37 UTC"
+        "altitude_ft": 16300,
+        "speed_kmh": 317,
+        "heading": 262.63,
+        "updated_utc": "2026-08-23 23:42:05 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.5394,
+          63.2689
+        ]
+      },
+      "properties": {
+        "callsign": "TVF72YL",
+        "country": "France",
+        "altitude_ft": 27925,
+        "speed_kmh": 730,
+        "heading": 292.85,
+        "updated_utc": "2026-08-23 23:42:05 UTC"
       }
     }
   ]
