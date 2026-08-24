@@ -6,17 +6,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.5193,
-          69.909
+          -68.3051,
+          70.5993
+        ]
+      },
+      "properties": {
+        "callsign": "AKT814",
+        "country": "Canada",
+        "altitude_ft": 2375,
+        "speed_kmh": 362,
+        "heading": 216.05,
+        "updated_utc": "2026-08-24 22:15:47 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2178,
+          69.3584
         ]
       },
       "properties": {
         "callsign": "BAW5VY",
         "country": "United Kingdom",
         "altitude_ft": 40000,
-        "speed_kmh": 893,
-        "heading": 262.26,
-        "updated_utc": "2026-08-24 21:50:56 UTC"
+        "speed_kmh": 900,
+        "heading": 250.89,
+        "updated_utc": "2026-08-24 22:15:47 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3786,
+          60.1584
+        ]
+      },
+      "properties": {
+        "callsign": "DLH4UA",
+        "country": "Germany",
+        "altitude_ft": 34000,
+        "speed_kmh": 906,
+        "heading": 311.6,
+        "updated_utc": "2026-08-24 22:15:47 UTC"
       }
     }
   ]
