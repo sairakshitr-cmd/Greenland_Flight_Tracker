@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.3051,
-          70.5993
+          -21.3476,
+          63.3324
         ]
       },
       "properties": {
-        "callsign": "AKT814",
-        "country": "Canada",
-        "altitude_ft": 2375,
-        "speed_kmh": 362,
-        "heading": 216.05,
-        "updated_utc": "2026-08-24 22:15:47 UTC"
+        "callsign": "ICE455",
+        "country": "Iceland",
+        "altitude_ft": 14700,
+        "speed_kmh": 565,
+        "heading": 310.48,
+        "updated_utc": "2026-08-24 22:50:03 UTC"
       }
     },
     {
@@ -24,35 +24,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2178,
-          69.3584
+          -66.3366,
+          67.7573
         ]
       },
       "properties": {
-        "callsign": "BAW5VY",
-        "country": "United Kingdom",
-        "altitude_ft": 40000,
-        "speed_kmh": 900,
-        "heading": 250.89,
-        "updated_utc": "2026-08-24 22:15:47 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.3786,
-          60.1584
-        ]
-      },
-      "properties": {
-        "callsign": "DLH4UA",
-        "country": "Germany",
+        "callsign": "ICE11P",
+        "country": "Iceland",
         "altitude_ft": 34000,
-        "speed_kmh": 906,
-        "heading": 311.6,
-        "updated_utc": "2026-08-24 22:15:47 UTC"
+        "speed_kmh": 821,
+        "heading": 261.3,
+        "updated_utc": "2026-08-24 22:50:03 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.1904,
+          63.641
+        ]
+      },
+      "properties": {
+        "callsign": "AUA973",
+        "country": "Austria",
+        "altitude_ft": 25825,
+        "speed_kmh": 654,
+        "heading": 276.5,
+        "updated_utc": "2026-08-24 22:50:03 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.339,
+          67.8122
+        ]
+      },
+      "properties": {
+        "callsign": "FBU80G",
+        "country": "France",
+        "altitude_ft": 40000,
+        "speed_kmh": 897,
+        "heading": 262.17,
+        "updated_utc": "2026-08-24 22:50:03 UTC"
       }
     }
   ]
