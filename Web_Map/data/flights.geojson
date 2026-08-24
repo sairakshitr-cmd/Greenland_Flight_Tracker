@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.386,
-          59.045
+          -22.6054,
+          63.9381
         ]
       },
       "properties": {
-        "callsign": "ICE750",
+        "callsign": "ICE102",
         "country": "Iceland",
-        "altitude_ft": 39000,
-        "speed_kmh": 760,
-        "heading": 135.99,
-        "updated_utc": "2026-08-24 20:55:28 UTC"
+        "altitude_ft": 800,
+        "speed_kmh": 235,
+        "heading": 359.55,
+        "updated_utc": "2026-08-24 21:20:44 UTC"
       }
     },
     {
@@ -24,71 +24,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.9495,
-          70.0731
+          -21.4854,
+          63.9875
+        ]
+      },
+      "properties": {
+        "callsign": "ICG25",
+        "country": "Iceland",
+        "altitude_ft": 7750,
+        "speed_kmh": 370,
+        "heading": 244.2,
+        "updated_utc": "2026-08-24 21:20:44 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1173,
+          63.6219
+        ]
+      },
+      "properties": {
+        "callsign": "EJU96FZ",
+        "country": "Austria",
+        "altitude_ft": 36750,
+        "speed_kmh": 823,
+        "heading": 96.2,
+        "updated_utc": "2026-08-24 21:20:44 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4633,
+          69.6201
         ]
       },
       "properties": {
         "callsign": "CLX1",
         "country": "Luxembourg",
-        "altitude_ft": 34000,
-        "speed_kmh": 882,
-        "heading": 261.55,
-        "updated_utc": "2026-08-24 20:55:28 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.6055,
-          63.9164
-        ]
-      },
-      "properties": {
-        "callsign": "NOS1925",
-        "country": "Ireland",
-        "altitude_ft": 1350,
-        "speed_kmh": 261,
-        "heading": 0.41,
-        "updated_utc": "2026-08-24 20:55:28 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -26.2934,
-          65.7424
-        ]
-      },
-      "properties": {
-        "callsign": "FBU80G",
-        "country": "France",
-        "altitude_ft": 38000,
-        "speed_kmh": 935,
-        "heading": 299.56,
-        "updated_utc": "2026-08-24 20:55:28 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -27.2185,
-          64.9534
-        ]
-      },
-      "properties": {
-        "callsign": "AFR018",
-        "country": "France",
-        "altitude_ft": 37000,
-        "speed_kmh": 932,
-        "heading": 297.84,
-        "updated_utc": "2026-08-24 20:55:28 UTC"
+        "altitude_ft": 36000,
+        "speed_kmh": 884,
+        "heading": 258.03,
+        "updated_utc": "2026-08-24 21:20:44 UTC"
       }
     }
   ]
