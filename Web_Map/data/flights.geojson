@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6055,
-          63.8771
+          -24.5072,
+          64.1185
         ]
       },
       "properties": {
-        "callsign": "ICE751",
-        "country": "Iceland",
-        "altitude_ft": 2075,
-        "speed_kmh": 313,
-        "heading": 0,
-        "updated_utc": "2026-08-25 03:12:01 UTC"
+        "callsign": "THY182",
+        "country": "Turkey",
+        "altitude_ft": 34000,
+        "speed_kmh": 882,
+        "heading": 270.36,
+        "updated_utc": "2026-08-25 03:58:10 UTC"
       }
     },
     {
@@ -24,17 +24,89 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.0815,
-          68.0563
+          -22.0024,
+          61.9815
         ]
       },
       "properties": {
-        "callsign": "ICE680",
-        "country": "Iceland",
-        "altitude_ft": 35000,
-        "speed_kmh": 850,
-        "heading": 89.13,
-        "updated_utc": "2026-08-25 03:12:01 UTC"
+        "callsign": "DAL142",
+        "country": "United States",
+        "altitude_ft": 38000,
+        "speed_kmh": 885,
+        "heading": 115.55,
+        "updated_utc": "2026-08-25 03:58:10 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2774,
+          59.8683
+        ]
+      },
+      "properties": {
+        "callsign": "RJA267",
+        "country": "Jordan",
+        "altitude_ft": 38000,
+        "speed_kmh": 938,
+        "heading": 297.53,
+        "updated_utc": "2026-08-25 03:58:10 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9499,
+          69.5836
+        ]
+      },
+      "properties": {
+        "callsign": "QTR68T",
+        "country": "Qatar",
+        "altitude_ft": 33000,
+        "speed_kmh": 885,
+        "heading": 77.68,
+        "updated_utc": "2026-08-25 03:58:10 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.221,
+          64.5314
+        ]
+      },
+      "properties": {
+        "callsign": "MSR981",
+        "country": "Egypt",
+        "altitude_ft": 36000,
+        "speed_kmh": 906,
+        "heading": 283.72,
+        "updated_utc": "2026-08-25 03:58:10 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5963,
+          59.0211
+        ]
+      },
+      "properties": {
+        "callsign": "KLM616",
+        "country": "Kingdom of the Netherlands",
+        "altitude_ft": 39000,
+        "speed_kmh": 868,
+        "heading": 124.3,
+        "updated_utc": "2026-08-25 03:58:10 UTC"
       }
     }
   ]
