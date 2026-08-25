@@ -6,53 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.8605,
-          68.0328
+          -9.9012,
+          59.9605
         ]
       },
       "properties": {
-        "callsign": "THY81A",
-        "country": "Turkey",
-        "altitude_ft": 39000,
-        "speed_kmh": 944,
-        "heading": 92.59,
-        "updated_utc": "2026-08-25 00:50:19 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.0364,
-          63.8356
-        ]
-      },
-      "properties": {
-        "callsign": "BTI3KB",
-        "country": "Latvia",
-        "altitude_ft": 9250,
-        "speed_kmh": 561,
-        "heading": 111.49,
-        "updated_utc": "2026-08-25 00:50:19 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.6143,
-          63.6923
-        ]
-      },
-      "properties": {
-        "callsign": "ICE534",
+        "callsign": "ICE751",
         "country": "Iceland",
-        "altitude_ft": 16725,
-        "speed_kmh": 708,
-        "heading": 111.33,
-        "updated_utc": "2026-08-25 00:50:19 UTC"
+        "altitude_ft": 36025,
+        "speed_kmh": 901,
+        "heading": 308.83,
+        "updated_utc": "2026-08-25 02:12:48 UTC"
       }
     },
     {
@@ -60,17 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.9452,
-          63.6291
+          -7.9669,
+          60.0609
         ]
       },
       "properties": {
-        "callsign": "DLH847",
-        "country": "Germany",
-        "altitude_ft": 19425,
-        "speed_kmh": 827,
-        "heading": 112.37,
-        "updated_utc": "2026-08-25 00:50:19 UTC"
+        "callsign": "ICE524",
+        "country": "Iceland",
+        "altitude_ft": 38000,
+        "speed_kmh": 764,
+        "heading": 128.51,
+        "updated_utc": "2026-08-25 02:12:48 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.114,
+          63.231
+        ]
+      },
+      "properties": {
+        "callsign": "SAS904",
+        "country": "Norway",
+        "altitude_ft": 41000,
+        "speed_kmh": 886,
+        "heading": 84,
+        "updated_utc": "2026-08-25 02:12:48 UTC"
       }
     }
   ]
