@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.9996,
-          73.0868
+          -62.8605,
+          68.0328
         ]
       },
       "properties": {
-        "callsign": "CPA805",
-        "country": "China",
-        "altitude_ft": 35000,
-        "speed_kmh": 907,
-        "heading": 0,
-        "updated_utc": "2026-08-24 23:55:42 UTC"
+        "callsign": "THY81A",
+        "country": "Turkey",
+        "altitude_ft": 39000,
+        "speed_kmh": 944,
+        "heading": 92.59,
+        "updated_utc": "2026-08-25 00:50:19 UTC"
       }
     },
     {
@@ -24,17 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -18.4052,
-          63.8881
+          -22.0364,
+          63.8356
         ]
       },
       "properties": {
-        "callsign": "ICE345",
+        "callsign": "BTI3KB",
+        "country": "Latvia",
+        "altitude_ft": 9250,
+        "speed_kmh": 561,
+        "heading": 111.49,
+        "updated_utc": "2026-08-25 00:50:19 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6143,
+          63.6923
+        ]
+      },
+      "properties": {
+        "callsign": "ICE534",
         "country": "Iceland",
-        "altitude_ft": 39650,
-        "speed_kmh": 849,
-        "heading": 267.87,
-        "updated_utc": "2026-08-24 23:55:42 UTC"
+        "altitude_ft": 16725,
+        "speed_kmh": 708,
+        "heading": 111.33,
+        "updated_utc": "2026-08-25 00:50:19 UTC"
       }
     },
     {
@@ -42,17 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.0706,
-          61.173
+          -20.9452,
+          63.6291
         ]
       },
       "properties": {
-        "callsign": "UAE9936",
-        "country": "United Arab Emirates",
-        "altitude_ft": 35000,
-        "speed_kmh": 868,
-        "heading": 86.45,
-        "updated_utc": "2026-08-24 23:55:42 UTC"
+        "callsign": "DLH847",
+        "country": "Germany",
+        "altitude_ft": 19425,
+        "speed_kmh": 827,
+        "heading": 112.37,
+        "updated_utc": "2026-08-25 00:50:19 UTC"
       }
     }
   ]
