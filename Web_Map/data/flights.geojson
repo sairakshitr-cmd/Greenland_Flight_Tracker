@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -19.9394,
-          62.5055
+          -17.4521,
+          63.3179
         ]
       },
       "properties": {
-        "callsign": "DAL204",
+        "callsign": "AAL293",
         "country": "United States",
-        "altitude_ft": 37025,
-        "speed_kmh": 886,
-        "heading": 79.77,
-        "updated_utc": "2026-08-26 03:17:33 UTC"
+        "altitude_ft": 38000,
+        "speed_kmh": 899,
+        "heading": 280.08,
+        "updated_utc": "2026-08-26 04:08:10 UTC"
       }
     },
     {
@@ -24,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.8833,
-          59.6356
+          -26.8785,
+          65.0885
         ]
       },
       "properties": {
-        "callsign": "SAS950",
-        "country": "Sweden",
-        "altitude_ft": 37000,
-        "speed_kmh": 825,
-        "heading": 101.79,
-        "updated_utc": "2026-08-26 03:17:33 UTC"
+        "callsign": "THY184",
+        "country": "Turkey",
+        "altitude_ft": 36000,
+        "speed_kmh": 901,
+        "heading": 268.23,
+        "updated_utc": "2026-08-26 04:08:10 UTC"
       }
     },
     {
@@ -42,17 +42,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -19.5576,
-          63.9716
+          -19.565,
+          62.86
         ]
       },
       "properties": {
-        "callsign": "ACA43",
-        "country": "Canada",
-        "altitude_ft": 34000,
-        "speed_kmh": 871,
-        "heading": 278.44,
-        "updated_utc": "2026-08-26 03:17:33 UTC"
+        "callsign": "UAL901",
+        "country": "United States",
+        "altitude_ft": 39000,
+        "speed_kmh": 894,
+        "heading": 125.47,
+        "updated_utc": "2026-08-26 04:08:10 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0756,
+          63.9393
+        ]
+      },
+      "properties": {
+        "callsign": "MSR947",
+        "country": "Egypt",
+        "altitude_ft": 38000,
+        "speed_kmh": 906,
+        "heading": 278.94,
+        "updated_utc": "2026-08-26 04:08:10 UTC"
       }
     }
   ]
