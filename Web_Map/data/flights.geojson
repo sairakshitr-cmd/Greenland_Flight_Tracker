@@ -6,17 +6,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.0142,
-          63.3219
+          -19.9394,
+          62.5055
         ]
       },
       "properties": {
-        "callsign": "ICE587",
-        "country": "Iceland",
-        "altitude_ft": 12125,
-        "speed_kmh": 566,
-        "heading": 331.67,
-        "updated_utc": "2026-08-26 02:13:18 UTC"
+        "callsign": "DAL204",
+        "country": "United States",
+        "altitude_ft": 37025,
+        "speed_kmh": 886,
+        "heading": 79.77,
+        "updated_utc": "2026-08-26 03:17:33 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8833,
+          59.6356
+        ]
+      },
+      "properties": {
+        "callsign": "SAS950",
+        "country": "Sweden",
+        "altitude_ft": 37000,
+        "speed_kmh": 825,
+        "heading": 101.79,
+        "updated_utc": "2026-08-26 03:17:33 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.5576,
+          63.9716
+        ]
+      },
+      "properties": {
+        "callsign": "ACA43",
+        "country": "Canada",
+        "altitude_ft": 34000,
+        "speed_kmh": 871,
+        "heading": 278.44,
+        "updated_utc": "2026-08-26 03:17:33 UTC"
       }
     }
   ]
