@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.9466,
-          64.1311
+          -28.7947,
+          65.0522
         ]
       },
       "properties": {
-        "callsign": "ICE51R",
+        "callsign": "THY4KG",
+        "country": "Turkey",
+        "altitude_ft": 38000,
+        "speed_kmh": 879,
+        "heading": 266.74,
+        "updated_utc": "2026-08-29 03:46:03 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4842,
+          69.9676
+        ]
+      },
+      "properties": {
+        "callsign": "ICE680",
         "country": "Iceland",
-        "altitude_ft": null,
-        "speed_kmh": 19,
-        "heading": 73.12,
-        "updated_utc": "2026-08-28 22:18:50 UTC"
+        "altitude_ft": 37000,
+        "speed_kmh": 806,
+        "heading": 86.05,
+        "updated_utc": "2026-08-29 03:46:03 UTC"
       }
     },
     {
@@ -24,17 +42,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.2556,
-          58.7346
+          -26.5921,
+          63.9265
         ]
       },
       "properties": {
-        "callsign": "EJU3976",
-        "country": "Austria",
-        "altitude_ft": 35000,
-        "speed_kmh": 867,
-        "heading": 150.42,
-        "updated_utc": "2026-08-28 22:18:50 UTC"
+        "callsign": "DLH491",
+        "country": "Germany",
+        "altitude_ft": 39000,
+        "speed_kmh": 963,
+        "heading": 112.62,
+        "updated_utc": "2026-08-29 03:46:03 UTC"
       }
     },
     {
@@ -42,35 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.1711,
-          58.8784
+          -5.4048,
+          59.865
         ]
       },
       "properties": {
-        "callsign": "N424CT",
-        "country": "United States",
-        "altitude_ft": 35000,
-        "speed_kmh": 854,
-        "heading": 158.5,
-        "updated_utc": "2026-08-28 22:18:50 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.3919,
-          68.9441
-        ]
-      },
-      "properties": {
-        "callsign": "ICE11P",
-        "country": "Iceland",
-        "altitude_ft": 34000,
-        "speed_kmh": 862,
-        "heading": 264.45,
-        "updated_utc": "2026-08-28 22:18:50 UTC"
+        "callsign": "JAL41",
+        "country": "Japan",
+        "altitude_ft": 41000,
+        "speed_kmh": 925,
+        "heading": 165.63,
+        "updated_utc": "2026-08-29 03:46:03 UTC"
       }
     }
   ]
