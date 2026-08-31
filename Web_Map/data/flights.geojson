@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.3582,
-          58.8864
+          -65.9615,
+          68.0565
         ]
       },
       "properties": {
-        "callsign": "DLH4UA",
-        "country": "Germany",
-        "altitude_ft": 34000,
-        "speed_kmh": 813,
-        "heading": 319.34,
-        "updated_utc": "2026-08-30 22:04:42 UTC"
+        "callsign": "AFR375G",
+        "country": "France",
+        "altitude_ft": 39000,
+        "speed_kmh": 928,
+        "heading": 89.66,
+        "updated_utc": "2026-08-31 00:34:53 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.0102,
+          63.6926
+        ]
+      },
+      "properties": {
+        "callsign": "AUA97B",
+        "country": "Austria",
+        "altitude_ft": 28075,
+        "speed_kmh": 823,
+        "heading": 96.07,
+        "updated_utc": "2026-08-31 00:34:53 UTC"
       }
     }
   ]
