@@ -6,17 +6,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.471,
-          59.2743
+          -73.0692,
+          69.2639
         ]
       },
       "properties": {
-        "callsign": "RCH227",
-        "country": "United States",
-        "altitude_ft": 32000,
-        "speed_kmh": 777,
-        "heading": 313.94,
-        "updated_utc": "2026-09-01 22:01:56 UTC"
+        "callsign": "UNKNOWN",
+        "country": "Canada",
+        "altitude_ft": 37000,
+        "speed_kmh": 1028,
+        "heading": 76.24,
+        "updated_utc": "2026-09-02 00:09:02 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6055,
+          63.9581
+        ]
+      },
+      "properties": {
+        "callsign": "WZZ4CT",
+        "country": "Malta",
+        "altitude_ft": 1000,
+        "speed_kmh": 304,
+        "heading": 179.65,
+        "updated_utc": "2026-09-02 00:09:02 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6055,
+          64.0307
+        ]
+      },
+      "properties": {
+        "callsign": "OCN1WZ",
+        "country": "Germany",
+        "altitude_ft": 1025,
+        "speed_kmh": 254,
+        "heading": 180,
+        "updated_utc": "2026-09-02 00:09:02 UTC"
       }
     }
   ]
