@@ -6,17 +6,89 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.2908,
-          63.9623
+          -20.1266,
+          62.4922
         ]
       },
       "properties": {
-        "callsign": "ABD4859",
-        "country": "Iceland",
-        "altitude_ft": 7250,
-        "speed_kmh": 453,
-        "heading": 109.84,
-        "updated_utc": "2026-09-03 00:12:12 UTC"
+        "callsign": "AAL293",
+        "country": "United States",
+        "altitude_ft": 38000,
+        "speed_kmh": 907,
+        "heading": 262.13,
+        "updated_utc": "2026-09-03 04:21:39 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5031,
+          62.4848
+        ]
+      },
+      "properties": {
+        "callsign": "ELY027",
+        "country": "Israel",
+        "altitude_ft": 36000,
+        "speed_kmh": 912,
+        "heading": 266.97,
+        "updated_utc": "2026-09-03 04:21:39 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.4005,
+          63.1044
+        ]
+      },
+      "properties": {
+        "callsign": "THY181",
+        "country": "Turkey",
+        "altitude_ft": 35975,
+        "speed_kmh": 921,
+        "heading": 270.69,
+        "updated_utc": "2026-09-03 04:21:39 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8863,
+          68.0332
+        ]
+      },
+      "properties": {
+        "callsign": "EDW11K",
+        "country": "Switzerland",
+        "altitude_ft": 39000,
+        "speed_kmh": 955,
+        "heading": 92.56,
+        "updated_utc": "2026-09-03 04:21:39 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7558,
+          59.7786
+        ]
+      },
+      "properties": {
+        "callsign": "UAL83",
+        "country": "United States",
+        "altitude_ft": 36000,
+        "speed_kmh": 871,
+        "heading": 277.82,
+        "updated_utc": "2026-09-03 04:21:39 UTC"
       }
     }
   ]
