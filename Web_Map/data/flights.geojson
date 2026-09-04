@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.4089,
-          63.9849
+          -22.5492,
+          63.985
         ]
       },
       "properties": {
-        "callsign": "N415X",
-        "country": "United States",
-        "altitude_ft": 1975,
-        "speed_kmh": 283,
-        "heading": 270.75,
-        "updated_utc": "2026-09-04 21:28:40 UTC"
+        "callsign": "AUA973",
+        "country": "Austria",
+        "altitude_ft": 900,
+        "speed_kmh": 233,
+        "heading": 270.45,
+        "updated_utc": "2026-09-04 23:10:02 UTC"
       }
     },
     {
@@ -24,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.8725,
-          70.4868
+          -22.3597,
+          63.9848
         ]
       },
       "properties": {
-        "callsign": "PNO711",
-        "country": "Canada",
-        "altitude_ft": 25000,
-        "speed_kmh": 558,
-        "heading": 136.88,
-        "updated_utc": "2026-09-04 21:28:40 UTC"
+        "callsign": "ICE455",
+        "country": "Iceland",
+        "altitude_ft": 2550,
+        "speed_kmh": 324,
+        "heading": 270.33,
+        "updated_utc": "2026-09-04 23:10:02 UTC"
       }
     },
     {
@@ -42,17 +42,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -24.8447,
-          65.5766
+          -20.4809,
+          63.9025
         ]
       },
       "properties": {
-        "callsign": "BAW5VY",
-        "country": "United Kingdom",
-        "altitude_ft": 34000,
-        "speed_kmh": 905,
-        "heading": 283.61,
-        "updated_utc": "2026-09-04 21:28:40 UTC"
+        "callsign": "ICE275",
+        "country": "Iceland",
+        "altitude_ft": 14900,
+        "speed_kmh": 613,
+        "heading": 277.64,
+        "updated_utc": "2026-09-04 23:10:02 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1903,
+          58.1499
+        ]
+      },
+      "properties": {
+        "callsign": "AMX008",
+        "country": "Mexico",
+        "altitude_ft": 35975,
+        "speed_kmh": 824,
+        "heading": 327.67,
+        "updated_utc": "2026-09-04 23:10:02 UTC"
       }
     }
   ]
