@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.101,
-          64.6918
+          -22.6055,
+          63.9348
         ]
       },
       "properties": {
-        "callsign": "ICE49R",
-        "country": "Iceland",
-        "altitude_ft": 16150,
-        "speed_kmh": 511,
-        "heading": 226.47,
-        "updated_utc": "2026-09-03 22:00:59 UTC"
+        "callsign": "LOT5MC",
+        "country": "Poland",
+        "altitude_ft": 1275,
+        "speed_kmh": 257,
+        "heading": 0.41,
+        "updated_utc": "2026-09-04 00:02:37 UTC"
       }
     },
     {
@@ -24,17 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -24.8262,
-          63.9965
+          -21.9347,
+          64.1245
         ]
       },
       "properties": {
-        "callsign": "LOT45",
-        "country": "Portugal",
-        "altitude_ft": 36000,
-        "speed_kmh": 886,
-        "heading": 272.4,
-        "updated_utc": "2026-09-03 22:00:59 UTC"
+        "callsign": "BIRK",
+        "country": "Iceland",
+        "altitude_ft": 550,
+        "speed_kmh": null,
+        "heading": 171.56,
+        "updated_utc": "2026-09-04 00:02:37 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6026,
+          63.7054
+        ]
+      },
+      "properties": {
+        "callsign": "OCN1WZ",
+        "country": "Germany",
+        "altitude_ft": 17800,
+        "speed_kmh": 744,
+        "heading": 275.28,
+        "updated_utc": "2026-09-04 00:02:37 UTC"
       }
     }
   ]
