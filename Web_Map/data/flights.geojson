@@ -7,16 +7,34 @@
         "type": "Point",
         "coordinates": [
           -22.6055,
-          63.9449
+          63.9332
         ]
       },
       "properties": {
-        "callsign": "BTI2HU",
-        "country": "Latvia",
-        "altitude_ft": 1075,
-        "speed_kmh": 228,
-        "heading": 0,
-        "updated_utc": "2026-09-07 00:06:34 UTC"
+        "callsign": "DHK3996",
+        "country": "United Kingdom",
+        "altitude_ft": 1325,
+        "speed_kmh": 211,
+        "heading": 359.5,
+        "updated_utc": "2026-09-07 04:33:07 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.3365,
+          63.0868
+        ]
+      },
+      "properties": {
+        "callsign": "LOT5T",
+        "country": "Poland",
+        "altitude_ft": 37975,
+        "speed_kmh": 880,
+        "heading": 90.48,
+        "updated_utc": "2026-09-07 04:33:07 UTC"
       }
     }
   ]
