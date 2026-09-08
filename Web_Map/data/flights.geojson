@@ -1,41 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.1784,
-          64.1002
-        ]
-      },
-      "properties": {
-        "callsign": "ICG31",
-        "country": "Iceland",
-        "altitude_ft": 750,
-        "speed_kmh": 266,
-        "heading": 256.74,
-        "updated_utc": "2026-09-07 22:08:51 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.9929,
-          64.1442
-        ]
-      },
-      "properties": {
-        "callsign": "FNA78",
-        "country": "Iceland",
-        "altitude_ft": 1825,
-        "speed_kmh": 191,
-        "heading": 347.71,
-        "updated_utc": "2026-09-07 22:08:51 UTC"
-      }
-    }
-  ]
+  "features": []
 }
