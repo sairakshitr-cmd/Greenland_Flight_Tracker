@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.7214,
+          66.0749
+        ]
+      },
+      "properties": {
+        "callsign": "ELY001",
+        "country": "Israel",
+        "altitude_ft": 35975,
+        "speed_kmh": 926,
+        "heading": 268.4,
+        "updated_utc": "2026-09-11 04:34:07 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6056,
+          63.9957
+        ]
+      },
+      "properties": {
+        "callsign": "ICE606",
+        "country": "Iceland",
+        "altitude_ft": 1025,
+        "speed_kmh": 263,
+        "heading": 179.6,
+        "updated_utc": "2026-09-11 04:34:07 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0667,
+          62.9848
+        ]
+      },
+      "properties": {
+        "callsign": "ACA918",
+        "country": "Canada",
+        "altitude_ft": 38975,
+        "speed_kmh": 949,
+        "heading": 134.76,
+        "updated_utc": "2026-09-11 04:34:07 UTC"
+      }
+    }
+  ]
 }
