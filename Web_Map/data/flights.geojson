@@ -6,53 +6,89 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.1828,
-          60.0766
+          -17.8578,
+          63.8645
         ]
       },
       "properties": {
-        "callsign": "WZZ6174",
-        "country": "Hungary",
-        "altitude_ft": 34000,
-        "speed_kmh": 747,
-        "heading": 291.22,
-        "updated_utc": "2026-09-12 21:31:21 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.9995,
-          70.581
-        ]
-      },
-      "properties": {
-        "callsign": "ASA101",
-        "country": "United States",
-        "altitude_ft": 35975,
-        "speed_kmh": 837,
-        "heading": 253.29,
-        "updated_utc": "2026-09-12 21:31:21 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.9707,
-          69.2786
-        ]
-      },
-      "properties": {
-        "callsign": "UAL927",
-        "country": "United States",
+        "callsign": "LOT5MC",
+        "country": "Poland",
         "altitude_ft": 38000,
-        "speed_kmh": 850,
-        "heading": 253.15,
-        "updated_utc": "2026-09-12 21:31:21 UTC"
+        "speed_kmh": 778,
+        "heading": 280.56,
+        "updated_utc": "2026-09-12 23:20:31 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9583,
+          70.9954
+        ]
+      },
+      "properties": {
+        "callsign": "CPA805",
+        "country": "China",
+        "altitude_ft": 35000,
+        "speed_kmh": 946,
+        "heading": 19.68,
+        "updated_utc": "2026-09-12 23:20:31 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6054,
+          63.9955
+        ]
+      },
+      "properties": {
+        "callsign": "ICE455",
+        "country": "Iceland",
+        "altitude_ft": 425,
+        "speed_kmh": 250,
+        "heading": 180,
+        "updated_utc": "2026-09-12 23:20:31 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8774,
+          63.6059
+        ]
+      },
+      "properties": {
+        "callsign": "DLH4UA",
+        "country": "Germany",
+        "altitude_ft": 17650,
+        "speed_kmh": 728,
+        "heading": 284.14,
+        "updated_utc": "2026-09-12 23:20:31 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6055,
+          63.9953
+        ]
+      },
+      "properties": {
+        "callsign": "AUA973",
+        "country": "Austria",
+        "altitude_ft": 425,
+        "speed_kmh": 250,
+        "heading": 179.58,
+        "updated_utc": "2026-09-12 23:20:31 UTC"
       }
     }
   ]
