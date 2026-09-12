@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.8224,
-          63.9239
+          -5.1828,
+          60.0766
         ]
       },
       "properties": {
-        "callsign": "WZZ18YQ",
+        "callsign": "WZZ6174",
         "country": "Hungary",
-        "altitude_ft": 10925,
-        "speed_kmh": 626,
-        "heading": 91.02,
-        "updated_utc": "2026-09-12 19:17:28 UTC"
+        "altitude_ft": 34000,
+        "speed_kmh": 747,
+        "heading": 291.22,
+        "updated_utc": "2026-09-12 21:31:21 UTC"
       }
     },
     {
@@ -24,71 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.9703,
-          70.4078
+          -74.9995,
+          70.581
         ]
       },
       "properties": {
-        "callsign": "THY95Y",
-        "country": "Turkey",
+        "callsign": "ASA101",
+        "country": "United States",
+        "altitude_ft": 35975,
+        "speed_kmh": 837,
+        "heading": 253.29,
+        "updated_utc": "2026-09-12 21:31:21 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9707,
+          69.2786
+        ]
+      },
+      "properties": {
+        "callsign": "UAL927",
+        "country": "United States",
         "altitude_ft": 38000,
-        "speed_kmh": 880,
-        "heading": 224.66,
-        "updated_utc": "2026-09-12 19:17:28 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.3288,
-          58.8296
-        ]
-      },
-      "properties": {
-        "callsign": "EJU59HC",
-        "country": "Austria",
-        "altitude_ft": 34950,
-        "speed_kmh": 868,
-        "heading": 150.48,
-        "updated_utc": "2026-09-12 19:17:28 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.8071,
-          69.6829
-        ]
-      },
-      "properties": {
-        "callsign": "ACA861",
-        "country": "Canada",
-        "altitude_ft": 33975,
-        "speed_kmh": 800,
-        "heading": 257.7,
-        "updated_utc": "2026-09-12 19:17:28 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.9636,
-          59.8687
-        ]
-      },
-      "properties": {
-        "callsign": "EJU96FZ",
-        "country": "Austria",
-        "altitude_ft": 35025,
-        "speed_kmh": 913,
-        "heading": 133.6,
-        "updated_utc": "2026-09-12 19:17:28 UTC"
+        "speed_kmh": 850,
+        "heading": 253.15,
+        "updated_utc": "2026-09-12 21:31:21 UTC"
       }
     }
   ]
