@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.8092,
-          64.7937
+          -8.9577,
+          60.2374
         ]
       },
       "properties": {
-        "callsign": "ICG31",
-        "country": "Iceland",
-        "altitude_ft": 7475,
-        "speed_kmh": 284,
-        "heading": 136.85,
-        "updated_utc": "2026-09-17 23:05:19 UTC"
+        "callsign": "AFR279",
+        "country": "France",
+        "altitude_ft": 37000,
+        "speed_kmh": 994,
+        "heading": 148.8,
+        "updated_utc": "2026-09-18 01:15:50 UTC"
       }
     },
     {
@@ -24,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.5207,
-          63.985
+          -61.6558,
+          68.9669
         ]
       },
       "properties": {
-        "callsign": "ICE581",
-        "country": "Iceland",
-        "altitude_ft": 1550,
-        "speed_kmh": 254,
-        "heading": 270.84,
-        "updated_utc": "2026-09-17 23:05:19 UTC"
+        "callsign": "KLM616",
+        "country": "Kingdom of the Netherlands",
+        "altitude_ft": 38975,
+        "speed_kmh": 921,
+        "heading": 86.08,
+        "updated_utc": "2026-09-18 01:15:50 UTC"
       }
     },
     {
@@ -42,17 +42,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -19.725,
-          62.716
+          -21.9186,
+          63.868
         ]
       },
       "properties": {
-        "callsign": "ICE455",
-        "country": "Iceland",
-        "altitude_ft": 38000,
-        "speed_kmh": 780,
-        "heading": 317.98,
-        "updated_utc": "2026-09-17 23:05:19 UTC"
+        "callsign": "LOT500",
+        "country": "Poland",
+        "altitude_ft": 13100,
+        "speed_kmh": 665,
+        "heading": 95.76,
+        "updated_utc": "2026-09-18 01:15:50 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9139,
+          70.7676
+        ]
+      },
+      "properties": {
+        "callsign": "CLX23C",
+        "country": "Luxembourg",
+        "altitude_ft": 34000,
+        "speed_kmh": 972,
+        "heading": 230.88,
+        "updated_utc": "2026-09-18 01:15:50 UTC"
       }
     }
   ]
