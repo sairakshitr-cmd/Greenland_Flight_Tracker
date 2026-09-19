@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -18.6312,
-          62.872
+          -20.4066,
+          64.6884
         ]
       },
       "properties": {
-        "callsign": "UNKNOWN",
+        "callsign": "FNA78A",
         "country": "Iceland",
-        "altitude_ft": 32950,
-        "speed_kmh": 792,
-        "heading": 299.56,
-        "updated_utc": "2026-09-18 22:55:02 UTC"
+        "altitude_ft": 19000,
+        "speed_kmh": 481,
+        "heading": 53.62,
+        "updated_utc": "2026-09-19 00:48:08 UTC"
       }
     },
     {
@@ -24,53 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.9917,
-          63.2068
+          -21.2093,
+          63.1626
         ]
       },
       "properties": {
-        "callsign": "JEI151",
-        "country": "Germany",
-        "altitude_ft": 21000,
-        "speed_kmh": 742,
-        "heading": 312.77,
-        "updated_utc": "2026-09-18 22:55:02 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -18.8931,
-          63.7354
-        ]
-      },
-      "properties": {
-        "callsign": "AUA973",
-        "country": "Austria",
-        "altitude_ft": 34425,
-        "speed_kmh": 868,
-        "heading": 272.69,
-        "updated_utc": "2026-09-18 22:55:02 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -26.3198,
-          62.7242
-        ]
-      },
-      "properties": {
-        "callsign": "FDX5217",
+        "callsign": "UPS238",
         "country": "United States",
         "altitude_ft": 32000,
-        "speed_kmh": 881,
-        "heading": 280.41,
-        "updated_utc": "2026-09-18 22:55:02 UTC"
+        "speed_kmh": 861,
+        "heading": 285.98,
+        "updated_utc": "2026-09-19 00:48:08 UTC"
       }
     },
     {
@@ -78,17 +42,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.5432,
-          63.4617
+          -9.0852,
+          59.3941
         ]
       },
       "properties": {
-        "callsign": "AMX026",
-        "country": "Mexico",
-        "altitude_ft": 33975,
-        "speed_kmh": 921,
-        "heading": 283.84,
-        "updated_utc": "2026-09-18 22:55:02 UTC"
+        "callsign": "N1980K",
+        "country": "United States",
+        "altitude_ft": 41000,
+        "speed_kmh": 929,
+        "heading": 323.11,
+        "updated_utc": "2026-09-19 00:48:08 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2019,
+          63.6348
+        ]
+      },
+      "properties": {
+        "callsign": "AUA97B",
+        "country": "Austria",
+        "altitude_ft": 36975,
+        "speed_kmh": 853,
+        "heading": 99.11,
+        "updated_utc": "2026-09-19 00:48:08 UTC"
       }
     }
   ]
