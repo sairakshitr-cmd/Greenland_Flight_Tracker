@@ -6,17 +6,179 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.8744,
-          70.003
+          -20.2823,
+          65.0425
         ]
       },
       "properties": {
-        "callsign": "THY4MS",
-        "country": "Turkey",
+        "callsign": "UAE3MX",
+        "country": "United Arab Emirates",
+        "altitude_ft": 34000,
+        "speed_kmh": 891,
+        "heading": 274.29,
+        "updated_utc": "2026-09-22 07:03:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.607,
+          61.7769
+        ]
+      },
+      "properties": {
+        "callsign": "KLM226",
+        "country": "Kingdom of the Netherlands",
+        "altitude_ft": 37000,
+        "speed_kmh": 941,
+        "heading": 115.91,
+        "updated_utc": "2026-09-22 07:03:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6167,
+          61.2188
+        ]
+      },
+      "properties": {
+        "callsign": "VIR106F",
+        "country": "United Kingdom",
         "altitude_ft": 39000,
-        "speed_kmh": 933,
-        "heading": 90.8,
-        "updated_utc": "2026-09-22 01:51:35 UTC"
+        "speed_kmh": 904,
+        "heading": 123.3,
+        "updated_utc": "2026-09-22 07:03:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.228,
+          64.1008
+        ]
+      },
+      "properties": {
+        "callsign": "EJU98ZL",
+        "country": "Austria",
+        "altitude_ft": 6850,
+        "speed_kmh": 513,
+        "heading": 305.75,
+        "updated_utc": "2026-09-22 07:03:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6094,
+          63.9821
+        ]
+      },
+      "properties": {
+        "callsign": "DAL260",
+        "country": "United States",
+        "altitude_ft": null,
+        "speed_kmh": 46,
+        "heading": 0,
+        "updated_utc": "2026-09-22 07:03:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6055,
+          64.0054
+        ]
+      },
+      "properties": {
+        "callsign": "ICE820",
+        "country": "Iceland",
+        "altitude_ft": 1100,
+        "speed_kmh": 244,
+        "heading": 179.57,
+        "updated_utc": "2026-09-22 07:03:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0694,
+          68.877
+        ]
+      },
+      "properties": {
+        "callsign": "ICE12E",
+        "country": "Iceland",
+        "altitude_ft": 33975,
+        "speed_kmh": 840,
+        "heading": 82.78,
+        "updated_utc": "2026-09-22 07:03:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6561,
+          63.2698
+        ]
+      },
+      "properties": {
+        "callsign": "BCS3998",
+        "country": "Germany",
+        "altitude_ft": 31650,
+        "speed_kmh": 790,
+        "heading": 305.07,
+        "updated_utc": "2026-09-22 07:03:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4302,
+          63.5794
+        ]
+      },
+      "properties": {
+        "callsign": "WJA24",
+        "country": "Canada",
+        "altitude_ft": 36975,
+        "speed_kmh": 937,
+        "heading": 109.15,
+        "updated_utc": "2026-09-22 07:03:51 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.8839,
+          65.8047
+        ]
+      },
+      "properties": {
+        "callsign": "MSR995",
+        "country": "Egypt",
+        "altitude_ft": 36000,
+        "speed_kmh": 918,
+        "heading": 278,
+        "updated_utc": "2026-09-22 07:03:51 UTC"
       }
     }
   ]
