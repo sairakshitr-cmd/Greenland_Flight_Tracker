@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.0259,
-          64.0601
+          -7.7324,
+          59.1783
         ]
       },
       "properties": {
-        "callsign": "AUA973",
-        "country": "Austria",
-        "altitude_ft": 11925,
-        "speed_kmh": 536,
-        "heading": 280.15,
-        "updated_utc": "2026-09-22 23:05:00 UTC"
+        "callsign": "AFR279",
+        "country": "France",
+        "altitude_ft": 33000,
+        "speed_kmh": 764,
+        "heading": 150.2,
+        "updated_utc": "2026-09-23 01:28:16 UTC"
       }
     },
     {
@@ -24,17 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.2511,
-          63.5717
+          -20.9807,
+          63.8318
         ]
       },
       "properties": {
-        "callsign": "ICE455",
+        "callsign": "LOT500",
+        "country": "Poland",
+        "altitude_ft": 16950,
+        "speed_kmh": 714,
+        "heading": 96.55,
+        "updated_utc": "2026-09-23 01:28:16 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3708,
+          62.7119
+        ]
+      },
+      "properties": {
+        "callsign": "ICE5801",
         "country": "Iceland",
-        "altitude_ft": 24800,
-        "speed_kmh": 689,
-        "heading": 302.71,
-        "updated_utc": "2026-09-22 23:05:00 UTC"
+        "altitude_ft": 34875,
+        "speed_kmh": 825,
+        "heading": 141.56,
+        "updated_utc": "2026-09-23 01:28:16 UTC"
       }
     },
     {
@@ -42,17 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6054,
-          63.9857
+          -21.9738,
+          63.8359
         ]
       },
       "properties": {
-        "callsign": "WZZ6174",
-        "country": "Malta",
-        "altitude_ft": 425,
-        "speed_kmh": 191,
-        "heading": 179.44,
-        "updated_utc": "2026-09-22 23:05:00 UTC"
+        "callsign": "OCN2RD",
+        "country": "Germany",
+        "altitude_ft": 10475,
+        "speed_kmh": 577,
+        "heading": 111.87,
+        "updated_utc": "2026-09-23 01:28:16 UTC"
       }
     }
   ]
