@@ -6,35 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6145,
-          63.9917
+          -8.1719,
+          59.566
         ]
       },
       "properties": {
-        "callsign": "LOT5MC",
-        "country": "Poland",
-        "altitude_ft": null,
-        "speed_kmh": 32,
-        "heading": 270,
-        "updated_utc": "2026-09-26 23:53:20 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -19.3856,
-          63.2339
-        ]
-      },
-      "properties": {
-        "callsign": "TVF72YL",
+        "callsign": "TVF80QE",
         "country": "France",
-        "altitude_ft": 29425,
-        "speed_kmh": 738,
-        "heading": 293.22,
-        "updated_utc": "2026-09-26 23:53:20 UTC"
+        "altitude_ft": 37000,
+        "speed_kmh": 742,
+        "heading": 149.72,
+        "updated_utc": "2026-09-27 02:37:28 UTC"
       }
     },
     {
@@ -42,17 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.6826,
-          63.6522
+          -25.4794,
+          63.8956
         ]
       },
       "properties": {
-        "callsign": "OCN1WZ",
+        "callsign": "WIN1200",
+        "country": "Mexico",
+        "altitude_ft": 38000,
+        "speed_kmh": 879,
+        "heading": 274.71,
+        "updated_utc": "2026-09-27 02:37:28 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4658,
+          59.7374
+        ]
+      },
+      "properties": {
+        "callsign": "OCN2RD",
         "country": "Germany",
-        "altitude_ft": 8925,
-        "speed_kmh": 519,
-        "heading": 290.89,
-        "updated_utc": "2026-09-26 23:53:20 UTC"
+        "altitude_ft": 34975,
+        "speed_kmh": 817,
+        "heading": 131.42,
+        "updated_utc": "2026-09-27 02:37:28 UTC"
       }
     }
   ]
