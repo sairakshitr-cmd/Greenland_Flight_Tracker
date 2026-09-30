@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.5992,
-          63.8893
+          -18.264,
+          62.498
         ]
       },
       "properties": {
-        "callsign": "LOT5MC",
-        "country": "Poland",
-        "altitude_ft": 7775,
-        "speed_kmh": 526,
-        "heading": 275.05,
-        "updated_utc": "2026-09-29 23:49:51 UTC"
+        "callsign": "PHLGD",
+        "country": "Kingdom of the Netherlands",
+        "altitude_ft": 42550,
+        "speed_kmh": 755,
+        "heading": 121.35,
+        "updated_utc": "2026-09-30 03:05:31 UTC"
       }
     },
     {
@@ -24,17 +24,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.8956,
-          63.9846
+          -21.2412,
+          63.504
         ]
       },
       "properties": {
-        "callsign": "OCN1WZ",
-        "country": "Germany",
-        "altitude_ft": 2725,
-        "speed_kmh": 259,
-        "heading": 89.18,
-        "updated_utc": "2026-09-29 23:49:51 UTC"
+        "callsign": "ICE721",
+        "country": "Iceland",
+        "altitude_ft": 17075,
+        "speed_kmh": 752,
+        "heading": 297.57,
+        "updated_utc": "2026-09-30 03:05:31 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2985,
+          63.9361
+        ]
+      },
+      "properties": {
+        "callsign": "SAS924",
+        "country": "Sweden",
+        "altitude_ft": 35000,
+        "speed_kmh": 837,
+        "heading": 70.48,
+        "updated_utc": "2026-09-30 03:05:31 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8246,
+          62.2469
+        ]
+      },
+      "properties": {
+        "callsign": "LOT57V",
+        "country": "Poland",
+        "altitude_ft": 41000,
+        "speed_kmh": 844,
+        "heading": 87.11,
+        "updated_utc": "2026-09-30 03:05:31 UTC"
       }
     }
   ]
