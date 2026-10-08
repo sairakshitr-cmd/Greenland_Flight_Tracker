@@ -1,4 +1,113 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.9526,
+          64.5847
+        ]
+      },
+      "properties": {
+        "callsign": "ENT981",
+        "country": "Poland",
+        "altitude_ft": 27000,
+        "speed_kmh": 749,
+        "heading": 20.85,
+        "updated_utc": "2026-10-08 06:23:01 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2867,
+          72.7298
+        ]
+      },
+      "properties": {
+        "callsign": "UAE41P",
+        "country": "United Arab Emirates",
+        "altitude_ft": 35000,
+        "speed_kmh": 927,
+        "heading": 79.3,
+        "updated_utc": "2026-10-08 06:23:01 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.0247,
+          66.0848
+        ]
+      },
+      "properties": {
+        "callsign": "RJA265",
+        "country": "Jordan",
+        "altitude_ft": 38000,
+        "speed_kmh": 838,
+        "heading": 267.21,
+        "updated_utc": "2026-10-08 06:23:01 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.0712,
+          63.4916
+        ]
+      },
+      "properties": {
+        "callsign": "ICE820",
+        "country": "Iceland",
+        "altitude_ft": 20075,
+        "speed_kmh": 806,
+        "heading": 58.54,
+        "updated_utc": "2026-10-08 06:23:01 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.2835,
+          64.1713
+        ]
+      },
+      "properties": {
+        "callsign": "UAL27",
+        "country": "United States",
+        "altitude_ft": 39000,
+        "speed_kmh": 969,
+        "heading": 106.32,
+        "updated_utc": "2026-10-08 06:23:01 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0942,
+          60.3466
+        ]
+      },
+      "properties": {
+        "callsign": "UAL990",
+        "country": "United States",
+        "altitude_ft": 39000,
+        "speed_kmh": 1063,
+        "heading": 148.97,
+        "updated_utc": "2026-10-08 06:23:01 UTC"
+      }
+    }
+  ]
 }
