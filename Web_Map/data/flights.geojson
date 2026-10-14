@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6054,
-          63.9932
+          -22.6823,
+          63.985
         ]
       },
       "properties": {
-        "callsign": "WZZ6174",
-        "country": "Malta",
-        "altitude_ft": 975,
-        "speed_kmh": 252,
-        "heading": 180,
-        "updated_utc": "2026-10-14 01:11:22 UTC"
+        "callsign": "ICE42P",
+        "country": "Iceland",
+        "altitude_ft": 1625,
+        "speed_kmh": 237,
+        "heading": 89.55,
+        "updated_utc": "2026-10-14 06:07:19 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6135,
+          63.9418
+        ]
+      },
+      "properties": {
+        "callsign": "ICE10V",
+        "country": "Iceland",
+        "altitude_ft": 9475,
+        "speed_kmh": 421,
+        "heading": 77.31,
+        "updated_utc": "2026-10-14 06:07:19 UTC"
       }
     }
   ]
