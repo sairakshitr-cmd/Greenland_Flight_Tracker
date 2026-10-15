@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.3698,
-          63.6524
+          -22.6004,
+          63.8062
         ]
       },
       "properties": {
-        "callsign": "ICE455",
-        "country": "Iceland",
-        "altitude_ft": 12375,
-        "speed_kmh": 567,
-        "heading": 284.76,
-        "updated_utc": "2026-10-14 23:11:20 UTC"
+        "callsign": "NOS8925",
+        "country": "Ireland",
+        "altitude_ft": 4325,
+        "speed_kmh": 328,
+        "heading": 322.81,
+        "updated_utc": "2026-10-15 01:26:43 UTC"
       }
     },
     {
@@ -24,17 +24,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.7211,
-          63.6586
+          -7.6985,
+          58.7142
         ]
       },
       "properties": {
-        "callsign": "DLH4UA",
-        "country": "Germany",
-        "altitude_ft": 10525,
-        "speed_kmh": 443,
-        "heading": 290.56,
-        "updated_utc": "2026-10-14 23:11:20 UTC"
+        "callsign": "ABD4979",
+        "country": "Malta",
+        "altitude_ft": 41000,
+        "speed_kmh": 935,
+        "heading": 126.46,
+        "updated_utc": "2026-10-15 01:26:43 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6054,
+          63.9434
+        ]
+      },
+      "properties": {
+        "callsign": "WZZ6174",
+        "country": "Malta",
+        "altitude_ft": 1700,
+        "speed_kmh": 207,
+        "heading": 359.49,
+        "updated_utc": "2026-10-15 01:26:43 UTC"
       }
     }
   ]
