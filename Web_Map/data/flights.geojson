@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6004,
-          63.8062
+          -19.3195,
+          64.8582
         ]
       },
       "properties": {
-        "callsign": "NOS8925",
-        "country": "Ireland",
-        "altitude_ft": 4325,
-        "speed_kmh": 328,
-        "heading": 322.81,
-        "updated_utc": "2026-10-15 01:26:43 UTC"
+        "callsign": "QTR68T",
+        "country": "Qatar",
+        "altitude_ft": 33000,
+        "speed_kmh": 933,
+        "heading": 110.45,
+        "updated_utc": "2026-10-15 06:07:43 UTC"
       }
     },
     {
@@ -24,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.6985,
-          58.7142
+          -23.6414,
+          63.8014
         ]
       },
       "properties": {
-        "callsign": "ABD4979",
-        "country": "Malta",
-        "altitude_ft": 41000,
-        "speed_kmh": 935,
-        "heading": 126.46,
-        "updated_utc": "2026-10-15 01:26:43 UTC"
+        "callsign": "ICE656",
+        "country": "Iceland",
+        "altitude_ft": 11100,
+        "speed_kmh": 616,
+        "heading": 95.18,
+        "updated_utc": "2026-10-15 06:07:43 UTC"
       }
     },
     {
@@ -42,17 +42,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.6054,
-          63.9434
+          -23.0757,
+          63.7466
         ]
       },
       "properties": {
-        "callsign": "WZZ6174",
-        "country": "Malta",
-        "altitude_ft": 1700,
-        "speed_kmh": 207,
-        "heading": 359.49,
-        "updated_utc": "2026-10-15 01:26:43 UTC"
+        "callsign": "ICE42P",
+        "country": "Iceland",
+        "altitude_ft": 7675,
+        "speed_kmh": 515,
+        "heading": 79.22,
+        "updated_utc": "2026-10-15 06:07:43 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6017,
+          58.3649
+        ]
+      },
+      "properties": {
+        "callsign": "EZY65QG",
+        "country": "United Kingdom",
+        "altitude_ft": 35950,
+        "speed_kmh": 816,
+        "heading": 328.84,
+        "updated_utc": "2026-10-15 06:07:43 UTC"
       }
     }
   ]
