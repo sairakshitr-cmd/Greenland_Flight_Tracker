@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.6321,
-          60.6119
+          -22.6055,
+          63.9928
         ]
       },
       "properties": {
-        "callsign": "WZZ89ZP",
-        "country": "Malta",
-        "altitude_ft": 35050,
-        "speed_kmh": 873,
-        "heading": 100.14,
-        "updated_utc": "2026-10-18 23:30:10 UTC"
+        "callsign": "WZZ6174",
+        "country": "Hungary",
+        "altitude_ft": 925,
+        "speed_kmh": 235,
+        "heading": 180,
+        "updated_utc": "2026-10-19 01:39:54 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4952,
+          62.7317
+        ]
+      },
+      "properties": {
+        "callsign": "BTI3KB",
+        "country": "Latvia",
+        "altitude_ft": 39000,
+        "speed_kmh": 880,
+        "heading": 116.78,
+        "updated_utc": "2026-10-19 01:39:54 UTC"
       }
     }
   ]
