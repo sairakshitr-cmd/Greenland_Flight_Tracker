@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.3246,
-          63.7156
+          -20.1291,
+          64.5124
         ]
       },
       "properties": {
-        "callsign": "WZZ4CT",
-        "country": "Hungary",
-        "altitude_ft": 17750,
-        "speed_kmh": 672,
-        "heading": 112.18,
-        "updated_utc": "2026-10-21 01:47:11 UTC"
+        "callsign": "UAE221",
+        "country": "United Arab Emirates",
+        "altitude_ft": 36000,
+        "speed_kmh": 924,
+        "heading": 280.97,
+        "updated_utc": "2026-10-21 06:48:35 UTC"
       }
     },
     {
@@ -24,17 +24,143 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -19.7969,
-          64.8383
+          -22.172,
+          63.0768
         ]
       },
       "properties": {
-        "callsign": "FNA78B",
+        "callsign": "THY6039",
+        "country": "Turkey",
+        "altitude_ft": 32000,
+        "speed_kmh": 886,
+        "heading": 272.52,
+        "updated_utc": "2026-10-21 06:48:35 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.0186,
+          63.5007
+        ]
+      },
+      "properties": {
+        "callsign": "QTR68T",
+        "country": "Qatar",
+        "altitude_ft": 33000,
+        "speed_kmh": 851,
+        "heading": 94.37,
+        "updated_utc": "2026-10-21 06:48:35 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6053,
+          64.0793
+        ]
+      },
+      "properties": {
+        "callsign": "DHK3998",
+        "country": "United Kingdom",
+        "altitude_ft": 2475,
+        "speed_kmh": 259,
+        "heading": 179.59,
+        "updated_utc": "2026-10-21 06:48:35 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6145,
+          63.9944
+        ]
+      },
+      "properties": {
+        "callsign": "ICE38C",
         "country": "Iceland",
-        "altitude_ft": 19000,
-        "speed_kmh": 533,
-        "heading": 51.78,
-        "updated_utc": "2026-10-21 01:47:11 UTC"
+        "altitude_ft": null,
+        "speed_kmh": 14,
+        "heading": 331.88,
+        "updated_utc": "2026-10-21 06:48:35 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.3232,
+          62.0414
+        ]
+      },
+      "properties": {
+        "callsign": "QTR73V",
+        "country": "Qatar",
+        "altitude_ft": 37000,
+        "speed_kmh": 915,
+        "heading": 93.25,
+        "updated_utc": "2026-10-21 06:48:35 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6845,
+          64.0111
+        ]
+      },
+      "properties": {
+        "callsign": "EZY37JZ",
+        "country": "United Kingdom",
+        "altitude_ft": 10450,
+        "speed_kmh": 542,
+        "heading": 295.51,
+        "updated_utc": "2026-10-21 06:48:35 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3324,
+          58.0527
+        ]
+      },
+      "properties": {
+        "callsign": "GFA091",
+        "country": "Bahrain",
+        "altitude_ft": 38000,
+        "speed_kmh": 942,
+        "heading": 298.03,
+        "updated_utc": "2026-10-21 06:48:35 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9808,
+          58.7156
+        ]
+      },
+      "properties": {
+        "callsign": "EZY41DU",
+        "country": "United Kingdom",
+        "altitude_ft": 38000,
+        "speed_kmh": 884,
+        "heading": 328.01,
+        "updated_utc": "2026-10-21 06:48:35 UTC"
       }
     }
   ]
