@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.4507,
-          64.2687
+          -6.1364,
+          61.2388
         ]
       },
       "properties": {
-        "callsign": "RCH317",
-        "country": "United States",
-        "altitude_ft": 30000,
-        "speed_kmh": 887,
-        "heading": 282.79,
-        "updated_utc": "2026-10-21 23:48:56 UTC"
+        "callsign": "UNKNOWN",
+        "country": "France",
+        "altitude_ft": 37000,
+        "speed_kmh": 811,
+        "heading": 164.5,
+        "updated_utc": "2026-10-22 02:33:10 UTC"
       }
     },
     {
@@ -24,17 +24,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -18.6604,
-          63.6917
+          -25.5666,
+          64.0849
         ]
       },
       "properties": {
-        "callsign": "ICE217",
-        "country": "Iceland",
-        "altitude_ft": 34800,
-        "speed_kmh": 883,
-        "heading": 278.32,
-        "updated_utc": "2026-10-21 23:48:56 UTC"
+        "callsign": "UAL91",
+        "country": "United States",
+        "altitude_ft": 36000,
+        "speed_kmh": 935,
+        "heading": 269.89,
+        "updated_utc": "2026-10-22 02:33:10 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0362,
+          60.0579
+        ]
+      },
+      "properties": {
+        "callsign": "N926MB",
+        "country": "United States",
+        "altitude_ft": 45000,
+        "speed_kmh": 926,
+        "heading": 297.13,
+        "updated_utc": "2026-10-22 02:33:10 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6599,
+          63.9851
+        ]
+      },
+      "properties": {
+        "callsign": "N811TM",
+        "country": "United States",
+        "altitude_ft": 875,
+        "speed_kmh": 194,
+        "heading": 90.55,
+        "updated_utc": "2026-10-22 02:33:10 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9611,
+          59.6652
+        ]
+      },
+      "properties": {
+        "callsign": "AIZ991",
+        "country": "Malta",
+        "altitude_ft": 36850,
+        "speed_kmh": 922,
+        "heading": 288.87,
+        "updated_utc": "2026-10-22 02:33:10 UTC"
       }
     }
   ]
