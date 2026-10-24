@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.3232,
-          58.8121
+          -8.3719,
+          59.5954
         ]
       },
       "properties": {
-        "callsign": "UAE9936",
-        "country": "United Arab Emirates",
-        "altitude_ft": 35000,
-        "speed_kmh": 992,
-        "heading": 102.95,
-        "updated_utc": "2026-10-23 23:59:45 UTC"
+        "callsign": "UAL422",
+        "country": "United States",
+        "altitude_ft": 36975,
+        "speed_kmh": 1039,
+        "heading": 117.02,
+        "updated_utc": "2026-10-24 03:53:46 UTC"
       }
     },
     {
@@ -24,17 +24,143 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.9532,
-          59.8814
+          -5.6702,
+          60.3728
         ]
       },
       "properties": {
-        "callsign": "VJT720",
-        "country": "Malta",
-        "altitude_ft": 40000,
-        "speed_kmh": 902,
-        "heading": 332.75,
-        "updated_utc": "2026-10-23 23:59:45 UTC"
+        "callsign": "JAL41",
+        "country": "Japan",
+        "altitude_ft": 38000,
+        "speed_kmh": 921,
+        "heading": 165.32,
+        "updated_utc": "2026-10-24 03:53:46 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.2536,
+          66.0357
+        ]
+      },
+      "properties": {
+        "callsign": "THY4JD",
+        "country": "Turkey",
+        "altitude_ft": 36000,
+        "speed_kmh": 907,
+        "heading": 273.63,
+        "updated_utc": "2026-10-24 03:53:46 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9433,
+          64.6845
+        ]
+      },
+      "properties": {
+        "callsign": "DAL42",
+        "country": "United States",
+        "altitude_ft": 39000,
+        "speed_kmh": 915,
+        "heading": 102.15,
+        "updated_utc": "2026-10-24 03:53:46 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6214,
+          58.2765
+        ]
+      },
+      "properties": {
+        "callsign": "UAL70",
+        "country": "United States",
+        "altitude_ft": 35000,
+        "speed_kmh": 1018,
+        "heading": 129.39,
+        "updated_utc": "2026-10-24 03:53:46 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6537,
+          60.2571
+        ]
+      },
+      "properties": {
+        "callsign": "ACA838",
+        "country": "Canada",
+        "altitude_ft": 39000,
+        "speed_kmh": 948,
+        "heading": 133.42,
+        "updated_utc": "2026-10-24 03:53:46 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.9497,
+          65.7782
+        ]
+      },
+      "properties": {
+        "callsign": "ACA43",
+        "country": "Canada",
+        "altitude_ft": 34000,
+        "speed_kmh": 884,
+        "heading": 276.98,
+        "updated_utc": "2026-10-24 03:53:46 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3339,
+          63.1233
+        ]
+      },
+      "properties": {
+        "callsign": "UAL901",
+        "country": "United States",
+        "altitude_ft": 38975,
+        "speed_kmh": 922,
+        "heading": 128.97,
+        "updated_utc": "2026-10-24 03:53:46 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.4459,
+          65.0476
+        ]
+      },
+      "properties": {
+        "callsign": "MSR981",
+        "country": "Egypt",
+        "altitude_ft": 34000,
+        "speed_kmh": 899,
+        "heading": 274.25,
+        "updated_utc": "2026-10-24 03:53:46 UTC"
       }
     }
   ]
