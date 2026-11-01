@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -19.4386,
-          62.1344
+          -20.6997,
+          61.7708
         ]
       },
       "properties": {
-        "callsign": "IBE0282",
-        "country": "Spain",
-        "altitude_ft": 37000,
-        "speed_kmh": 962,
-        "heading": 144.72,
-        "updated_utc": "2026-11-01 00:33:54 UTC"
+        "callsign": "SAS944",
+        "country": "Sweden",
+        "altitude_ft": 39000,
+        "speed_kmh": 1026,
+        "heading": 83.99,
+        "updated_utc": "2026-11-01 06:49:39 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.4832,
+          62.2236
+        ]
+      },
+      "properties": {
+        "callsign": "FIN20",
+        "country": "Finland",
+        "altitude_ft": 38000,
+        "speed_kmh": 982,
+        "heading": 79.35,
+        "updated_utc": "2026-11-01 06:49:39 UTC"
       }
     }
   ]
