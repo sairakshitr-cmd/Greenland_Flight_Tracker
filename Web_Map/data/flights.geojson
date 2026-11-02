@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.9321,
-          64.1244
+          -22.6096,
+          63.9916
         ]
       },
       "properties": {
-        "callsign": "ICG35",
+        "callsign": "ICE955",
         "country": "Iceland",
         "altitude_ft": null,
-        "speed_kmh": null,
-        "heading": 191.25,
-        "updated_utc": "2026-11-01 22:25:10 UTC"
+        "speed_kmh": 20,
+        "heading": 331.88,
+        "updated_utc": "2026-11-02 01:39:24 UTC"
       }
     },
     {
@@ -24,35 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.132,
-          63.9064
+          -17.0534,
+          63.2496
         ]
       },
       "properties": {
-        "callsign": "ICE505",
-        "country": "Iceland",
-        "altitude_ft": 25600,
-        "speed_kmh": 634,
-        "heading": 285.42,
-        "updated_utc": "2026-11-01 22:25:10 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.1723,
-          63.0835
-        ]
-      },
-      "properties": {
-        "callsign": "FJO646",
-        "country": "Malta",
-        "altitude_ft": 47000,
-        "speed_kmh": 987,
-        "heading": 88.93,
-        "updated_utc": "2026-11-01 22:25:10 UTC"
+        "callsign": "CLX244",
+        "country": "Luxembourg",
+        "altitude_ft": 33000,
+        "speed_kmh": 993,
+        "heading": 120.96,
+        "updated_utc": "2026-11-02 01:39:24 UTC"
       }
     }
   ]
