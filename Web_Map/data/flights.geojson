@@ -1,23 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -23.1499,
-          62.5879
-        ]
-      },
-      "properties": {
-        "callsign": "AIC16J",
-        "country": "India",
-        "altitude_ft": 35000,
-        "speed_kmh": 999,
-        "heading": 82.76,
-        "updated_utc": "2026-11-03 21:15:53 UTC"
-      }
-    }
-  ]
+  "features": []
 }
