@@ -1,41 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -22.1172,
-          63.9166
-        ]
-      },
-      "properties": {
-        "callsign": "WZZ6086",
-        "country": "Hungary",
-        "altitude_ft": 9200,
-        "speed_kmh": 606,
-        "heading": 95.43,
-        "updated_utc": "2026-11-07 19:12:11 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -25.214,
-          63.7294
-        ]
-      },
-      "properties": {
-        "callsign": "BOX472",
-        "country": "Germany",
-        "altitude_ft": 30000,
-        "speed_kmh": 854,
-        "heading": 303.59,
-        "updated_utc": "2026-11-07 19:12:11 UTC"
-      }
-    }
-  ]
+  "features": []
 }
