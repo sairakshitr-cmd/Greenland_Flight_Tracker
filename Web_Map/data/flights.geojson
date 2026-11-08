@@ -1,4 +1,185 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1597,
+          64.5052
+        ]
+      },
+      "properties": {
+        "callsign": "ICE30R",
+        "country": "Iceland",
+        "altitude_ft": 17825,
+        "speed_kmh": 585,
+        "heading": 36.51,
+        "updated_utc": "2026-11-08 08:19:45 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0208,
+          63.9459
+        ]
+      },
+      "properties": {
+        "callsign": "ICE342",
+        "country": "Iceland",
+        "altitude_ft": 8225,
+        "speed_kmh": 634,
+        "heading": 76.49,
+        "updated_utc": "2026-11-08 08:19:45 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7971,
+          64.0638
+        ]
+      },
+      "properties": {
+        "callsign": "ICE318",
+        "country": "Iceland",
+        "altitude_ft": 17650,
+        "speed_kmh": 763,
+        "heading": 74.07,
+        "updated_utc": "2026-11-08 08:19:45 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.5033,
+          62.1129
+        ]
+      },
+      "properties": {
+        "callsign": "ICE416",
+        "country": "Iceland",
+        "altitude_ft": 34725,
+        "speed_kmh": 842,
+        "heading": 138.57,
+        "updated_utc": "2026-11-08 08:19:45 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.2524,
+          63.6283
+        ]
+      },
+      "properties": {
+        "callsign": "ICE92P",
+        "country": "Iceland",
+        "altitude_ft": 34650,
+        "speed_kmh": 929,
+        "heading": 95.95,
+        "updated_utc": "2026-11-08 08:19:45 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7899,
+          63.4303
+        ]
+      },
+      "properties": {
+        "callsign": "ICE34E",
+        "country": "Iceland",
+        "altitude_ft": 22800,
+        "speed_kmh": 754,
+        "heading": 123.07,
+        "updated_utc": "2026-11-08 08:19:45 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.4636,
+          62.0593
+        ]
+      },
+      "properties": {
+        "callsign": "ICE544",
+        "country": "Iceland",
+        "altitude_ft": 37000,
+        "speed_kmh": 845,
+        "heading": 138.73,
+        "updated_utc": "2026-11-08 08:19:45 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9353,
+          64.1304
+        ]
+      },
+      "properties": {
+        "callsign": "FNA77",
+        "country": "Iceland",
+        "altitude_ft": null,
+        "speed_kmh": 21,
+        "heading": 47.81,
+        "updated_utc": "2026-11-08 08:19:45 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.6356,
+          63.0536
+        ]
+      },
+      "properties": {
+        "callsign": "LOT5ED",
+        "country": "Poland",
+        "altitude_ft": 39000,
+        "speed_kmh": 969,
+        "heading": 88.14,
+        "updated_utc": "2026-11-08 08:19:45 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6071,
+          63.9055
+        ]
+      },
+      "properties": {
+        "callsign": "CFG033",
+        "country": "Germany",
+        "altitude_ft": 41000,
+        "speed_kmh": 925,
+        "heading": 118.72,
+        "updated_utc": "2026-11-08 08:19:45 UTC"
+      }
+    }
+  ]
 }
