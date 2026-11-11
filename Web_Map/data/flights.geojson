@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -25.4156,
-          65.791
+          -22.4265,
+          63.7754
         ]
       },
       "properties": {
-        "callsign": "BAW4EA",
-        "country": "United Kingdom",
-        "altitude_ft": 39000,
-        "speed_kmh": 1042,
-        "heading": 125.3,
-        "updated_utc": "2026-11-11 03:50:34 UTC"
+        "callsign": "GAF627",
+        "country": "Germany",
+        "altitude_ft": 3550,
+        "speed_kmh": 381,
+        "heading": 291.08,
+        "updated_utc": "2026-11-11 11:35:21 UTC"
       }
     },
     {
@@ -24,17 +24,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.6433,
-          64.0471
+          -25.801,
+          65.0815
         ]
       },
       "properties": {
-        "callsign": "SAS904",
-        "country": "Sweden",
-        "altitude_ft": 35000,
-        "speed_kmh": 964,
-        "heading": 92.97,
-        "updated_utc": "2026-11-11 03:50:34 UTC"
+        "callsign": "QTR51U",
+        "country": "Qatar",
+        "altitude_ft": 33000,
+        "speed_kmh": 1030,
+        "heading": 89.28,
+        "updated_utc": "2026-11-11 11:35:21 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9387,
+          64.1315
+        ]
+      },
+      "properties": {
+        "callsign": "FNA571",
+        "country": "Iceland",
+        "altitude_ft": null,
+        "speed_kmh": 18,
+        "heading": 284.06,
+        "updated_utc": "2026-11-11 11:35:21 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6054,
+          63.9895
+        ]
+      },
+      "properties": {
+        "callsign": "EZY89GK",
+        "country": "United Kingdom",
+        "altitude_ft": null,
+        "speed_kmh": 63,
+        "heading": 2.81,
+        "updated_utc": "2026-11-11 11:35:21 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.0183,
+          61.6799
+        ]
+      },
+      "properties": {
+        "callsign": "SWR41G",
+        "country": "Switzerland",
+        "altitude_ft": 37000,
+        "speed_kmh": 945,
+        "heading": 100.96,
+        "updated_utc": "2026-11-11 11:35:21 UTC"
       }
     }
   ]
