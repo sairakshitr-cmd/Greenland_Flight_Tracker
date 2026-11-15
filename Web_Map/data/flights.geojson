@@ -6,17 +6,143 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.3748,
-          58.4927
+          -27.4393,
+          62.5799
         ]
       },
       "properties": {
-        "callsign": "THY9LC",
-        "country": "Turkey",
+        "callsign": "UAL194",
+        "country": "United States",
+        "altitude_ft": 37000,
+        "speed_kmh": 916,
+        "heading": 110.96,
+        "updated_utc": "2026-11-15 07:10:40 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.1246,
+          65.0245
+        ]
+      },
+      "properties": {
+        "callsign": "WJA24",
+        "country": "Canada",
         "altitude_ft": 38975,
-        "speed_kmh": 975,
-        "heading": 111.5,
-        "updated_utc": "2026-11-15 00:33:28 UTC"
+        "speed_kmh": 973,
+        "heading": 131.22,
+        "updated_utc": "2026-11-15 07:10:40 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5465,
+          58.5281
+        ]
+      },
+      "properties": {
+        "callsign": "ETD53M",
+        "country": "United Arab Emirates",
+        "altitude_ft": 37975,
+        "speed_kmh": 848,
+        "heading": 291.52,
+        "updated_utc": "2026-11-15 07:10:40 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5706,
+          58.5342
+        ]
+      },
+      "properties": {
+        "callsign": "ETD47B",
+        "country": "United Arab Emirates",
+        "altitude_ft": 35975,
+        "speed_kmh": 816,
+        "heading": 291.85,
+        "updated_utc": "2026-11-15 07:10:40 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.2305,
+          64.9937
+        ]
+      },
+      "properties": {
+        "callsign": "WJA10",
+        "country": "Canada",
+        "altitude_ft": 39000,
+        "speed_kmh": 971,
+        "heading": 123.57,
+        "updated_utc": "2026-11-15 07:10:40 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1727,
+          61.9686
+        ]
+      },
+      "properties": {
+        "callsign": "AFR81K",
+        "country": "France",
+        "altitude_ft": 37000,
+        "speed_kmh": 948,
+        "heading": 132.39,
+        "updated_utc": "2026-11-15 07:10:40 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.9651,
+          63.8579
+        ]
+      },
+      "properties": {
+        "callsign": "VPCFR",
+        "country": "United Kingdom",
+        "altitude_ft": 43000,
+        "speed_kmh": 867,
+        "heading": 279.97,
+        "updated_utc": "2026-11-15 07:10:40 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7055,
+          66.9874
+        ]
+      },
+      "properties": {
+        "callsign": "QTR73V",
+        "country": "Qatar",
+        "altitude_ft": 35000,
+        "speed_kmh": 971,
+        "heading": 113.24,
+        "updated_utc": "2026-11-15 07:10:40 UTC"
       }
     }
   ]
