@@ -1,4 +1,23 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3748,
+          58.4927
+        ]
+      },
+      "properties": {
+        "callsign": "THY9LC",
+        "country": "Turkey",
+        "altitude_ft": 38975,
+        "speed_kmh": 975,
+        "heading": 111.5,
+        "updated_utc": "2026-11-15 00:33:28 UTC"
+      }
+    }
+  ]
 }
