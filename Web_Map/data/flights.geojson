@@ -1,4 +1,113 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.5322,
+          63.0262
+        ]
+      },
+      "properties": {
+        "callsign": "THY184",
+        "country": "Turkey",
+        "altitude_ft": 34000,
+        "speed_kmh": 847,
+        "heading": 274.01,
+        "updated_utc": "2026-11-20 04:56:33 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.681,
+          65.1998
+        ]
+      },
+      "properties": {
+        "callsign": "THY12E",
+        "country": "Turkey",
+        "altitude_ft": 37000,
+        "speed_kmh": 915,
+        "heading": 106.45,
+        "updated_utc": "2026-11-20 04:56:33 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.3182,
+          64.1228
+        ]
+      },
+      "properties": {
+        "callsign": "ICE751",
+        "country": "Iceland",
+        "altitude_ft": 4350,
+        "speed_kmh": 501,
+        "heading": 310.05,
+        "updated_utc": "2026-11-20 04:56:33 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.2893,
+          63.8963
+        ]
+      },
+      "properties": {
+        "callsign": "DLH491",
+        "country": "Germany",
+        "altitude_ft": 37000,
+        "speed_kmh": 857,
+        "heading": 104.4,
+        "updated_utc": "2026-11-20 04:56:33 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.8203,
+          64.0023
+        ]
+      },
+      "properties": {
+        "callsign": "SAS908",
+        "country": "Sweden",
+        "altitude_ft": 35000,
+        "speed_kmh": 891,
+        "heading": 86.54,
+        "updated_utc": "2026-11-20 04:56:33 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4309,
+          63.1566
+        ]
+      },
+      "properties": {
+        "callsign": "DAL56",
+        "country": "United States",
+        "altitude_ft": 37000,
+        "speed_kmh": 878,
+        "heading": 105.8,
+        "updated_utc": "2026-11-20 04:56:33 UTC"
+      }
+    }
+  ]
 }
