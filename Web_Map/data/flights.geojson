@@ -1,4 +1,77 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.383,
+          65.0872
+        ]
+      },
+      "properties": {
+        "callsign": "THY67C",
+        "country": "Turkey",
+        "altitude_ft": 36000,
+        "speed_kmh": 918,
+        "heading": 287.37,
+        "updated_utc": "2026-11-22 09:59:43 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6113,
+          63.9909
+        ]
+      },
+      "properties": {
+        "callsign": "ICE8K",
+        "country": "Iceland",
+        "altitude_ft": null,
+        "speed_kmh": 28,
+        "heading": 2.81,
+        "updated_utc": "2026-11-22 09:59:43 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6079,
+          63.9917
+        ]
+      },
+      "properties": {
+        "callsign": "ICE14T",
+        "country": "Iceland",
+        "altitude_ft": null,
+        "speed_kmh": null,
+        "heading": 90,
+        "updated_utc": "2026-11-22 09:59:43 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.151,
+          63.8624
+        ]
+      },
+      "properties": {
+        "callsign": "SAS595",
+        "country": "Ireland",
+        "altitude_ft": 36050,
+        "speed_kmh": 816,
+        "heading": 276.25,
+        "updated_utc": "2026-11-22 09:59:43 UTC"
+      }
+    }
+  ]
 }
