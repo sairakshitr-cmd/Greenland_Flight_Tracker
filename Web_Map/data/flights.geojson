@@ -6,17 +6,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.419,
-          62.876
+          -24.3644,
+          63.7612
         ]
       },
       "properties": {
-        "callsign": "ICE455",
+        "callsign": "ICE630",
         "country": "Iceland",
-        "altitude_ft": 30400,
-        "speed_kmh": 863,
-        "heading": 312.22,
-        "updated_utc": "2026-11-26 23:09:15 UTC"
+        "altitude_ft": 16625,
+        "speed_kmh": 658,
+        "heading": 59.4,
+        "updated_utc": "2026-11-27 04:59:08 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6095,
+          63.9915
+        ]
+      },
+      "properties": {
+        "callsign": "ICE751",
+        "country": "Iceland",
+        "altitude_ft": null,
+        "speed_kmh": 25,
+        "heading": 345.94,
+        "updated_utc": "2026-11-27 04:59:08 UTC"
       }
     }
   ]
