@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -18.4532,
-          63.0353
+          -23.4058,
+          64.2378
         ]
       },
       "properties": {
-        "callsign": "ICE455",
-        "country": "Iceland",
-        "altitude_ft": 35450,
-        "speed_kmh": 872,
-        "heading": 304.26,
-        "updated_utc": "2026-11-27 23:04:36 UTC"
+        "callsign": "AKJ9546",
+        "country": "India",
+        "altitude_ft": 9500,
+        "speed_kmh": 437,
+        "heading": 104.98,
+        "updated_utc": "2026-11-28 04:42:39 UTC"
       }
     },
     {
@@ -24,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.1423,
-          64.3448
+          -21.6839,
+          64.4206
         ]
       },
       "properties": {
-        "callsign": "FNA77C",
-        "country": "Iceland",
-        "altitude_ft": 20000,
-        "speed_kmh": 507,
-        "heading": 270.84,
-        "updated_utc": "2026-11-27 23:04:36 UTC"
+        "callsign": "THY4JD",
+        "country": "Turkey",
+        "altitude_ft": 35975,
+        "speed_kmh": 931,
+        "heading": 282.88,
+        "updated_utc": "2026-11-28 04:42:39 UTC"
       }
     },
     {
@@ -42,17 +42,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -25.028,
-          62.0905
+          -25.7607,
+          63.3359
         ]
       },
       "properties": {
-        "callsign": "CMB586",
-        "country": "United States",
+        "callsign": "ICE690",
+        "country": "Iceland",
+        "altitude_ft": 33150,
+        "speed_kmh": 851,
+        "heading": 56.45,
+        "updated_utc": "2026-11-28 04:42:39 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.3598,
+          61.628
+        ]
+      },
+      "properties": {
+        "callsign": "AZG786",
+        "country": "Azerbaijan",
+        "altitude_ft": 31000,
+        "speed_kmh": 903,
+        "heading": 78.64,
+        "updated_utc": "2026-11-28 04:42:39 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9712,
+          64.7756
+        ]
+      },
+      "properties": {
+        "callsign": "UNKNOWN",
+        "country": "Canada",
         "altitude_ft": 36000,
-        "speed_kmh": 895,
-        "heading": 270,
-        "updated_utc": "2026-11-27 23:04:36 UTC"
+        "speed_kmh": 882,
+        "heading": 281.38,
+        "updated_utc": "2026-11-28 04:42:39 UTC"
       }
     }
   ]
